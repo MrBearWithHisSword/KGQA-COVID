@@ -16,3 +16,7 @@ Preparation
 Launching the Web Demo
 ----------------------------------------------
 run python app.py under flask directory after launching OpenIE and Neo4j database to play with the KGQA demo.
+
+.. image:: images/Demo.png
+  :width: 1600
+  :alt: Alternative text
