@@ -1,34 +1,18 @@
-kg-covid-19
+KGQA-COVID
 =========================================================================================
-|sonar_quality| |sonar_maintainability| |sonar_coverage|
+This repo is extended from  `kg-covid-19 <https://github.com/Knowledge-Graph-Hub/kg-covid-19/>`_.
 
-KG hub to produce a knowledge graph for COVID-19 and SARS-COV-2
-
-Documentation
+Preparation
 ----------------------------------------------
-See `here <https://knowledge-graph-hub.github.io/kg-covid-19/>`_.
+1. Please follow the instructions of `original repo <https://github.com/Knowledge-Graph-Hub/kg-covid-19/>`_ to download and process the corresponding data.
 
-Download the Knowledge Graph
+2. Install the requirements: pip install -r requirements.txt
+
+3. Install `OpenIE <https://github.com/dair-iitd/OpenIE-standalone>`_.
+4. Install `Neo4j <https://neo4j.com/docs/operations-manual/current/installation/>`_ (Optional) Or you can use Neo4j SandboX or AuraDB online.
+
+5. Upload the data to Neo4j Graph Database.
+
+Launching the Web Demo
 ----------------------------------------------
-Download prebuilt versions of the KG-COVID-19 knowledge graph `here <https://kg-hub.berkeleybop.io/kg-covid-19/>`_.
-
-
-.. |sonar_quality| image:: https://sonarcloud.io/api/project_badges/measure?project=Knowledge-Graph-Hub_kg-covid-19&metric=alert_status
-    :target: https://sonarcloud.io/dashboard/index/Knowledge-Graph-Hub_kg-covid-19
-    :alt: SonarCloud Quality
-
-.. |sonar_maintainability| image:: https://sonarcloud.io/api/project_badges/measure?project=Knowledge-Graph-Hub_kg-covid-19&metric=sqale_rating
-    :target: https://sonarcloud.io/dashboard/index/Knowledge-Graph-Hub_kg-covid-19
-    :alt: SonarCloud Maintainability
-
-.. |sonar_coverage| image:: https://sonarcloud.io/api/project_badges/measure?project=Knowledge-Graph-Hub_kg-covid-19&metric=coverage
-    :target: https://sonarcloud.io/dashboard/index/Knowledge-Graph-Hub_kg-covid-19
-    :alt: SonarCloud Coverage
-
-.. |pip| image:: https://badge.fury.io/py/kg-emerging-viruses.svg
-    :target: https://badge.fury.io/py/kg-emerging-viruses
-    :alt: Pypi project
-
-.. |downloads| image:: https://pepy.tech/badge/kg-emerging-viruses
-    :target: https://pepy.tech/badge/kg-emerging-viruses
-    :alt: Pypi total project downloads
+run python app.py under flask directory after launching OpenIE and Neo4j database to play with the KGQA demo.
