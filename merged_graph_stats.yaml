@@ -1,0 +1,4638 @@
+edge_stats:
+  count_by_predicates:
+    biolink:actively_involved_in:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:affects:
+      count: 349
+      provided_by:
+        unknown:
+          count: 349
+    biolink:affects_localization_of:
+      count: 6
+      provided_by:
+        unknown:
+          count: 6
+    biolink:affects_transport_of:
+      count: 1351
+      provided_by:
+        unknown:
+          count: 1351
+    biolink:associated_with:
+      count: 1126
+      provided_by:
+        unknown:
+          count: 1126
+    biolink:capable_of:
+      count: 731
+      provided_by:
+        unknown:
+          count: 731
+    biolink:caused_by:
+      count: 175
+      provided_by:
+        unknown:
+          count: 175
+    biolink:causes:
+      count: 384
+      provided_by:
+        unknown:
+          count: 384
+    biolink:coexists_with:
+      count: 589
+      provided_by:
+        unknown:
+          count: 589
+    biolink:derives_from:
+      count: 23
+      provided_by:
+        unknown:
+          count: 23
+    biolink:develops_from:
+      count: 1370
+      provided_by:
+        unknown:
+          count: 1370
+    biolink:disrupts:
+      count: 104
+      provided_by:
+        unknown:
+          count: 104
+    biolink:enabled_by:
+      count: 34
+      provided_by:
+        unknown:
+          count: 34
+    biolink:enables:
+      count: 17949
+      provided_by:
+        sars_cov_2_gene_annot:
+          count: 17949
+    biolink:has_attribute:
+      count: 39975
+      provided_by:
+        unknown:
+          count: 39975
+    biolink:has_gene_product:
+      count: 17560
+      provided_by:
+        NCBI:
+          count: 17560
+    biolink:has_input:
+      count: 2657
+      provided_by:
+        unknown:
+          count: 2657
+    biolink:has_output:
+      count: 3198
+      provided_by:
+        unknown:
+          count: 3198
+    biolink:has_part:
+      count: 5383
+      provided_by:
+        unknown:
+          count: 5383
+    biolink:has_participant:
+      count: 1711
+      provided_by:
+        unknown:
+          count: 1711
+    biolink:has_phenotype:
+      count: 108
+      provided_by:
+        unknown:
+          count: 108
+    biolink:homologous_to:
+      count: 8
+      provided_by:
+        unknown:
+          count: 8
+    biolink:in_taxon:
+      count: 2358
+      provided_by:
+        unknown:
+          count: 2358
+    biolink:increases_degradation_of:
+      count: 9
+      provided_by:
+        unknown:
+          count: 9
+    biolink:interacts_with:
+      count: 11863526
+      provided_by:
+        ChEMBL SARS-CoV-2 subset:
+          count: 9076
+        STRING:
+          count: 11759454
+        intact:
+          count: 2123
+        pharmgkb:
+          count: 8761
+        ttd:
+          count: 83979
+        unknown:
+          count: 6
+        zhou_host_proteins:
+          count: 127
+    biolink:involved_in:
+      count: 17131
+      provided_by:
+        sars_cov_2_gene_annot:
+          count: 17131
+    biolink:located_in:
+      count: 314
+      provided_by:
+        unknown:
+          count: 314
+    biolink:location_of:
+      count: 10
+      provided_by:
+        unknown:
+          count: 10
+    biolink:mentions:
+      count: 11715990
+      provided_by:
+        SciBite-CORD-19:
+          count: 11715990
+    biolink:model_of:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:molecularly_interacts_with:
+      count: 15257
+      provided_by:
+        drug_central:
+          count: 15257
+    biolink:negatively_regulates:
+      count: 3163
+      provided_by:
+        unknown:
+          count: 3163
+    biolink:occurs_in:
+      count: 455
+      provided_by:
+        unknown:
+          count: 455
+    biolink:overlaps:
+      count: 537
+      provided_by:
+        unknown:
+          count: 537
+    biolink:part_of:
+      count: 25942
+      provided_by:
+        sars_cov_2_gene_annot:
+          count: 11070
+        unknown:
+          count: 14872
+    biolink:participates_in:
+      count: 569
+      provided_by:
+        unknown:
+          count: 569
+    biolink:positively_regulates:
+      count: 4314
+      provided_by:
+        unknown:
+          count: 4314
+    biolink:preceded_by:
+      count: 82
+      provided_by:
+        unknown:
+          count: 82
+    biolink:precedes:
+      count: 521
+      provided_by:
+        unknown:
+          count: 521
+    biolink:produced_by:
+      count: 42
+      provided_by:
+        unknown:
+          count: 42
+    biolink:produces:
+      count: 26
+      provided_by:
+        unknown:
+          count: 26
+    biolink:regulates:
+      count: 3649
+      provided_by:
+        unknown:
+          count: 3649
+    biolink:related_to:
+      count: 53339
+      provided_by:
+        unknown:
+          count: 53339
+    biolink:subclass_of:
+      count: 342434
+      provided_by:
+        unknown:
+          count: 342434
+    biolink:temporally_related_to:
+      count: 183
+      provided_by:
+        unknown:
+          count: 183
+    biolink:type:
+      count: 18
+      provided_by:
+        unknown:
+          count: 18
+    unknown:
+      count: 0
+  count_by_spo:
+    biolink:AnatomicalEntity-biolink:capable_of-biolink:BiologicalProcess:
+      count: 85
+      provided_by:
+        unknown:
+          count: 85
+    biolink:AnatomicalEntity-biolink:capable_of-biolink:NamedThing:
+      count: 2
+      provided_by:
+        unknown:
+          count: 2
+    biolink:AnatomicalEntity-biolink:capable_of-biolink:OntologyClass:
+      count: 82
+      provided_by:
+        unknown:
+          count: 82
+    biolink:AnatomicalEntity-biolink:causes-biolink:AnatomicalEntity:
+      count: 19
+      provided_by:
+        unknown:
+          count: 19
+    biolink:AnatomicalEntity-biolink:coexists_with-biolink:AnatomicalEntity:
+      count: 530
+      provided_by:
+        unknown:
+          count: 530
+    biolink:AnatomicalEntity-biolink:coexists_with-biolink:Cell:
+      count: 10
+      provided_by:
+        unknown:
+          count: 10
+    biolink:AnatomicalEntity-biolink:coexists_with-biolink:NamedThing:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:AnatomicalEntity-biolink:develops_from-biolink:AnatomicalEntity:
+      count: 983
+      provided_by:
+        unknown:
+          count: 983
+    biolink:AnatomicalEntity-biolink:develops_from-biolink:Cell:
+      count: 2
+      provided_by:
+        unknown:
+          count: 2
+    biolink:AnatomicalEntity-biolink:develops_from-biolink:NamedThing:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:AnatomicalEntity-biolink:has_attribute-biolink:NamedThing:
+      count: 62
+      provided_by:
+        unknown:
+          count: 62
+    biolink:AnatomicalEntity-biolink:has_attribute-biolink:OntologyClass:
+      count: 64
+      provided_by:
+        unknown:
+          count: 64
+    biolink:AnatomicalEntity-biolink:has_output-biolink:BiologicalProcess:
+      count: 13
+      provided_by:
+        unknown:
+          count: 13
+    biolink:AnatomicalEntity-biolink:has_output-biolink:OntologyClass:
+      count: 12
+      provided_by:
+        unknown:
+          count: 12
+    biolink:AnatomicalEntity-biolink:has_part-biolink:AnatomicalEntity:
+      count: 357
+      provided_by:
+        unknown:
+          count: 357
+    biolink:AnatomicalEntity-biolink:has_part-biolink:Cell:
+      count: 198
+      provided_by:
+        unknown:
+          count: 198
+    biolink:AnatomicalEntity-biolink:has_part-biolink:CellularComponent:
+      count: 32
+      provided_by:
+        unknown:
+          count: 32
+    biolink:AnatomicalEntity-biolink:has_part-biolink:ChemicalSubstance:
+      count: 17
+      provided_by:
+        unknown:
+          count: 17
+    biolink:AnatomicalEntity-biolink:has_part-biolink:Drug:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:AnatomicalEntity-biolink:has_part-biolink:MolecularActivity:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:AnatomicalEntity-biolink:has_part-biolink:NamedThing:
+      count: 38
+      provided_by:
+        unknown:
+          count: 38
+    biolink:AnatomicalEntity-biolink:has_part-biolink:OntologyClass:
+      count: 32
+      provided_by:
+        unknown:
+          count: 32
+    biolink:AnatomicalEntity-biolink:has_part-biolink:Protein:
+      count: 3
+      provided_by:
+        unknown:
+          count: 3
+    biolink:AnatomicalEntity-biolink:homologous_to-biolink:AnatomicalEntity:
+      count: 8
+      provided_by:
+        unknown:
+          count: 8
+    biolink:AnatomicalEntity-biolink:in_taxon-biolink:OrganismalEntity:
+      count: 312
+      provided_by:
+        unknown:
+          count: 312
+    biolink:AnatomicalEntity-biolink:located_in-biolink:AnatomicalEntity:
+      count: 304
+      provided_by:
+        unknown:
+          count: 304
+    biolink:AnatomicalEntity-biolink:located_in-biolink:NamedThing:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:AnatomicalEntity-biolink:location_of-biolink:AnatomicalEntity:
+      count: 10
+      provided_by:
+        unknown:
+          count: 10
+    biolink:AnatomicalEntity-biolink:occurs_in-biolink:BiologicalProcess:
+      count: 28
+      provided_by:
+        unknown:
+          count: 28
+    biolink:AnatomicalEntity-biolink:occurs_in-biolink:OntologyClass:
+      count: 28
+      provided_by:
+        unknown:
+          count: 28
+    biolink:AnatomicalEntity-biolink:overlaps-biolink:AnatomicalEntity:
+      count: 469
+      provided_by:
+        unknown:
+          count: 469
+    biolink:AnatomicalEntity-biolink:part_of-biolink:AnatomicalEntity:
+      count: 5442
+      provided_by:
+        unknown:
+          count: 5442
+    biolink:AnatomicalEntity-biolink:part_of-biolink:BiologicalProcess:
+      count: 9
+      provided_by:
+        unknown:
+          count: 9
+    biolink:AnatomicalEntity-biolink:part_of-biolink:Cell:
+      count: 2
+      provided_by:
+        unknown:
+          count: 2
+    biolink:AnatomicalEntity-biolink:part_of-biolink:OntologyClass:
+      count: 9
+      provided_by:
+        unknown:
+          count: 9
+    biolink:AnatomicalEntity-biolink:part_of-biolink:OrganismalEntity:
+      count: 4
+      provided_by:
+        unknown:
+          count: 4
+    biolink:AnatomicalEntity-biolink:participates_in-biolink:BiologicalProcess:
+      count: 72
+      provided_by:
+        unknown:
+          count: 72
+    biolink:AnatomicalEntity-biolink:participates_in-biolink:NamedThing:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:AnatomicalEntity-biolink:participates_in-biolink:OntologyClass:
+      count: 68
+      provided_by:
+        unknown:
+          count: 68
+    biolink:AnatomicalEntity-biolink:preceded_by-biolink:AnatomicalEntity:
+      count: 20
+      provided_by:
+        unknown:
+          count: 20
+    biolink:AnatomicalEntity-biolink:precedes-biolink:AnatomicalEntity:
+      count: 3
+      provided_by:
+        unknown:
+          count: 3
+    biolink:AnatomicalEntity-biolink:produced_by-biolink:AnatomicalEntity:
+      count: 37
+      provided_by:
+        unknown:
+          count: 37
+    biolink:AnatomicalEntity-biolink:produced_by-biolink:Cell:
+      count: 4
+      provided_by:
+        unknown:
+          count: 4
+    biolink:AnatomicalEntity-biolink:produced_by-biolink:NamedThing:
+      count: 2
+      provided_by:
+        unknown:
+          count: 2
+    biolink:AnatomicalEntity-biolink:produced_by-biolink:OntologyClass:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:AnatomicalEntity-biolink:produces-biolink:AnatomicalEntity:
+      count: 18
+      provided_by:
+        unknown:
+          count: 18
+    biolink:AnatomicalEntity-biolink:produces-biolink:NamedThing:
+      count: 3
+      provided_by:
+        unknown:
+          count: 3
+    biolink:AnatomicalEntity-biolink:produces-biolink:Protein:
+      count: 2
+      provided_by:
+        unknown:
+          count: 2
+    biolink:AnatomicalEntity-biolink:related_to-biolink:AnatomicalEntity:
+      count: 1379
+      provided_by:
+        unknown:
+          count: 1379
+    biolink:AnatomicalEntity-biolink:related_to-biolink:BiologicalProcess:
+      count: 4
+      provided_by:
+        unknown:
+          count: 4
+    biolink:AnatomicalEntity-biolink:related_to-biolink:Cell:
+      count: 61
+      provided_by:
+        unknown:
+          count: 61
+    biolink:AnatomicalEntity-biolink:related_to-biolink:CellularComponent:
+      count: 18
+      provided_by:
+        unknown:
+          count: 18
+    biolink:AnatomicalEntity-biolink:related_to-biolink:ChemicalSubstance:
+      count: 9
+      provided_by:
+        unknown:
+          count: 9
+    biolink:AnatomicalEntity-biolink:related_to-biolink:NamedThing:
+      count: 10
+      provided_by:
+        unknown:
+          count: 10
+    biolink:AnatomicalEntity-biolink:related_to-biolink:OntologyClass:
+      count: 27
+      provided_by:
+        unknown:
+          count: 27
+    biolink:AnatomicalEntity-biolink:subclass_of-biolink:AnatomicalEntity:
+      count: 8679
+      provided_by:
+        unknown:
+          count: 8679
+    biolink:AnatomicalEntity-biolink:subclass_of-biolink:CellularComponent:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:AnatomicalEntity-biolink:subclass_of-biolink:NamedThing:
+      count: 40
+      provided_by:
+        unknown:
+          count: 40
+    biolink:AnatomicalEntity-biolink:subclass_of-biolink:OntologyClass:
+      count: 784
+      provided_by:
+        unknown:
+          count: 784
+    biolink:AnatomicalEntity-biolink:temporally_related_to-biolink:AnatomicalEntity:
+      count: 54
+      provided_by:
+        unknown:
+          count: 54
+    biolink:AnatomicalEntity-biolink:temporally_related_to-biolink:BiologicalProcess:
+      count: 9
+      provided_by:
+        unknown:
+          count: 9
+    biolink:AnatomicalEntity-biolink:temporally_related_to-biolink:OntologyClass:
+      count: 8
+      provided_by:
+        unknown:
+          count: 8
+    biolink:BiologicalProcess-biolink:affects-biolink:AnatomicalEntity:
+      count: 48
+      provided_by:
+        unknown:
+          count: 48
+    biolink:BiologicalProcess-biolink:affects-biolink:Cell:
+      count: 89
+      provided_by:
+        unknown:
+          count: 89
+    biolink:BiologicalProcess-biolink:affects-biolink:CellularComponent:
+      count: 203
+      provided_by:
+        unknown:
+          count: 203
+    biolink:BiologicalProcess-biolink:affects-biolink:NamedThing:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:BiologicalProcess-biolink:affects-biolink:OntologyClass:
+      count: 182
+      provided_by:
+        unknown:
+          count: 182
+    biolink:BiologicalProcess-biolink:affects_localization_of-biolink:CellularComponent:
+      count: 6
+      provided_by:
+        unknown:
+          count: 6
+    biolink:BiologicalProcess-biolink:affects_localization_of-biolink:OntologyClass:
+      count: 6
+      provided_by:
+        unknown:
+          count: 6
+    biolink:BiologicalProcess-biolink:affects_transport_of-biolink:AnatomicalEntity:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:BiologicalProcess-biolink:affects_transport_of-biolink:BiologicalProcess:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:BiologicalProcess-biolink:affects_transport_of-biolink:Cell:
+      count: 4
+      provided_by:
+        unknown:
+          count: 4
+    biolink:BiologicalProcess-biolink:affects_transport_of-biolink:CellularComponent:
+      count: 68
+      provided_by:
+        unknown:
+          count: 68
+    biolink:BiologicalProcess-biolink:affects_transport_of-biolink:ChemicalSubstance:
+      count: 678
+      provided_by:
+        unknown:
+          count: 678
+    biolink:BiologicalProcess-biolink:affects_transport_of-biolink:Drug:
+      count: 32
+      provided_by:
+        unknown:
+          count: 32
+    biolink:BiologicalProcess-biolink:affects_transport_of-biolink:NamedThing:
+      count: 4
+      provided_by:
+        unknown:
+          count: 4
+    biolink:BiologicalProcess-biolink:affects_transport_of-biolink:OntologyClass:
+      count: 76
+      provided_by:
+        unknown:
+          count: 76
+    biolink:BiologicalProcess-biolink:affects_transport_of-biolink:Protein:
+      count: 9
+      provided_by:
+        unknown:
+          count: 9
+    biolink:BiologicalProcess-biolink:affects_transport_of-biolink:SequenceFeature:
+      count: 10
+      provided_by:
+        unknown:
+          count: 10
+    biolink:BiologicalProcess-biolink:caused_by-biolink:AnatomicalEntity:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:BiologicalProcess-biolink:caused_by-biolink:Cell:
+      count: 24
+      provided_by:
+        unknown:
+          count: 24
+    biolink:BiologicalProcess-biolink:caused_by-biolink:CellularComponent:
+      count: 21
+      provided_by:
+        unknown:
+          count: 21
+    biolink:BiologicalProcess-biolink:caused_by-biolink:ChemicalSubstance:
+      count: 10
+      provided_by:
+        unknown:
+          count: 10
+    biolink:BiologicalProcess-biolink:caused_by-biolink:NamedThing:
+      count: 2
+      provided_by:
+        unknown:
+          count: 2
+    biolink:BiologicalProcess-biolink:caused_by-biolink:OntologyClass:
+      count: 16
+      provided_by:
+        unknown:
+          count: 16
+    biolink:BiologicalProcess-biolink:caused_by-biolink:Protein:
+      count: 5
+      provided_by:
+        unknown:
+          count: 5
+    biolink:BiologicalProcess-biolink:caused_by-biolink:SequenceFeature:
+      count: 3
+      provided_by:
+        unknown:
+          count: 3
+    biolink:BiologicalProcess-biolink:causes-biolink:BiologicalProcess:
+      count: 9
+      provided_by:
+        unknown:
+          count: 9
+    biolink:BiologicalProcess-biolink:causes-biolink:Cell:
+      count: 300
+      provided_by:
+        unknown:
+          count: 300
+    biolink:BiologicalProcess-biolink:causes-biolink:OntologyClass:
+      count: 39
+      provided_by:
+        unknown:
+          count: 39
+    biolink:BiologicalProcess-biolink:has_input-biolink:AnatomicalEntity:
+      count: 8
+      provided_by:
+        unknown:
+          count: 8
+    biolink:BiologicalProcess-biolink:has_input-biolink:Cell:
+      count: 64
+      provided_by:
+        unknown:
+          count: 64
+    biolink:BiologicalProcess-biolink:has_input-biolink:CellularComponent:
+      count: 92
+      provided_by:
+        unknown:
+          count: 92
+    biolink:BiologicalProcess-biolink:has_input-biolink:ChemicalSubstance:
+      count: 1444
+      provided_by:
+        unknown:
+          count: 1444
+    biolink:BiologicalProcess-biolink:has_input-biolink:Drug:
+      count: 67
+      provided_by:
+        unknown:
+          count: 67
+    biolink:BiologicalProcess-biolink:has_input-biolink:NamedThing:
+      count: 6
+      provided_by:
+        unknown:
+          count: 6
+    biolink:BiologicalProcess-biolink:has_input-biolink:OntologyClass:
+      count: 128
+      provided_by:
+        unknown:
+          count: 128
+    biolink:BiologicalProcess-biolink:has_input-biolink:OrganismalEntity:
+      count: 10
+      provided_by:
+        unknown:
+          count: 10
+    biolink:BiologicalProcess-biolink:has_input-biolink:Protein:
+      count: 5
+      provided_by:
+        unknown:
+          count: 5
+    biolink:BiologicalProcess-biolink:has_input-biolink:SequenceFeature:
+      count: 26
+      provided_by:
+        unknown:
+          count: 26
+    biolink:BiologicalProcess-biolink:has_output-biolink:AnatomicalEntity:
+      count: 1160
+      provided_by:
+        unknown:
+          count: 1160
+    biolink:BiologicalProcess-biolink:has_output-biolink:Cell:
+      count: 138
+      provided_by:
+        unknown:
+          count: 138
+    biolink:BiologicalProcess-biolink:has_output-biolink:CellularComponent:
+      count: 358
+      provided_by:
+        unknown:
+          count: 358
+    biolink:BiologicalProcess-biolink:has_output-biolink:ChemicalSubstance:
+      count: 1265
+      provided_by:
+        unknown:
+          count: 1265
+    biolink:BiologicalProcess-biolink:has_output-biolink:Drug:
+      count: 26
+      provided_by:
+        unknown:
+          count: 26
+    biolink:BiologicalProcess-biolink:has_output-biolink:NamedThing:
+      count: 10
+      provided_by:
+        unknown:
+          count: 10
+    biolink:BiologicalProcess-biolink:has_output-biolink:OntologyClass:
+      count: 408
+      provided_by:
+        unknown:
+          count: 408
+    biolink:BiologicalProcess-biolink:has_output-biolink:Protein:
+      count: 6
+      provided_by:
+        unknown:
+          count: 6
+    biolink:BiologicalProcess-biolink:has_output-biolink:SequenceFeature:
+      count: 15
+      provided_by:
+        unknown:
+          count: 15
+    biolink:BiologicalProcess-biolink:has_part-biolink:BiologicalProcess:
+      count: 229
+      provided_by:
+        unknown:
+          count: 229
+    biolink:BiologicalProcess-biolink:has_part-biolink:MolecularActivity:
+      count: 188
+      provided_by:
+        unknown:
+          count: 188
+    biolink:BiologicalProcess-biolink:has_part-biolink:OntologyClass:
+      count: 230
+      provided_by:
+        unknown:
+          count: 230
+    biolink:BiologicalProcess-biolink:has_participant-biolink:AnatomicalEntity:
+      count: 2
+      provided_by:
+        unknown:
+          count: 2
+    biolink:BiologicalProcess-biolink:has_participant-biolink:BiologicalProcess:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:BiologicalProcess-biolink:has_participant-biolink:Cell:
+      count: 28
+      provided_by:
+        unknown:
+          count: 28
+    biolink:BiologicalProcess-biolink:has_participant-biolink:CellularComponent:
+      count: 33
+      provided_by:
+        unknown:
+          count: 33
+    biolink:BiologicalProcess-biolink:has_participant-biolink:ChemicalSubstance:
+      count: 1296
+      provided_by:
+        unknown:
+          count: 1296
+    biolink:BiologicalProcess-biolink:has_participant-biolink:Drug:
+      count: 19
+      provided_by:
+        unknown:
+          count: 19
+    biolink:BiologicalProcess-biolink:has_participant-biolink:NamedThing:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:BiologicalProcess-biolink:has_participant-biolink:OntologyClass:
+      count: 49
+      provided_by:
+        unknown:
+          count: 49
+    biolink:BiologicalProcess-biolink:has_participant-biolink:Protein:
+      count: 5
+      provided_by:
+        unknown:
+          count: 5
+    biolink:BiologicalProcess-biolink:has_participant-biolink:SequenceFeature:
+      count: 13
+      provided_by:
+        unknown:
+          count: 13
+    biolink:BiologicalProcess-biolink:in_taxon-biolink:OrganismalEntity:
+      count: 441
+      provided_by:
+        unknown:
+          count: 441
+    biolink:BiologicalProcess-biolink:increases_degradation_of-biolink:CellularComponent:
+      count: 9
+      provided_by:
+        unknown:
+          count: 9
+    biolink:BiologicalProcess-biolink:increases_degradation_of-biolink:OntologyClass:
+      count: 9
+      provided_by:
+        unknown:
+          count: 9
+    biolink:BiologicalProcess-biolink:negatively_regulates-biolink:BiologicalProcess:
+      count: 2764
+      provided_by:
+        unknown:
+          count: 2764
+    biolink:BiologicalProcess-biolink:negatively_regulates-biolink:MolecularActivity:
+      count: 262
+      provided_by:
+        unknown:
+          count: 262
+    biolink:BiologicalProcess-biolink:negatively_regulates-biolink:NamedThing:
+      count: 5
+      provided_by:
+        unknown:
+          count: 5
+    biolink:BiologicalProcess-biolink:negatively_regulates-biolink:OntologyClass:
+      count: 1718
+      provided_by:
+        unknown:
+          count: 1718
+    biolink:BiologicalProcess-biolink:occurs_in-biolink:AnatomicalEntity:
+      count: 64
+      provided_by:
+        unknown:
+          count: 64
+    biolink:BiologicalProcess-biolink:occurs_in-biolink:Cell:
+      count: 134
+      provided_by:
+        unknown:
+          count: 134
+    biolink:BiologicalProcess-biolink:occurs_in-biolink:CellularComponent:
+      count: 163
+      provided_by:
+        unknown:
+          count: 163
+    biolink:BiologicalProcess-biolink:occurs_in-biolink:OntologyClass:
+      count: 170
+      provided_by:
+        unknown:
+          count: 170
+    biolink:BiologicalProcess-biolink:part_of-biolink:BiologicalProcess:
+      count: 5086
+      provided_by:
+        unknown:
+          count: 5086
+    biolink:BiologicalProcess-biolink:part_of-biolink:OntologyClass:
+      count: 2310
+      provided_by:
+        unknown:
+          count: 2310
+    biolink:BiologicalProcess-biolink:participates_in-biolink:Cell:
+      count: 87
+      provided_by:
+        unknown:
+          count: 87
+    biolink:BiologicalProcess-biolink:participates_in-biolink:CellularComponent:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:BiologicalProcess-biolink:participates_in-biolink:ChemicalSubstance:
+      count: 83
+      provided_by:
+        unknown:
+          count: 83
+    biolink:BiologicalProcess-biolink:participates_in-biolink:Drug:
+      count: 2
+      provided_by:
+        unknown:
+          count: 2
+    biolink:BiologicalProcess-biolink:participates_in-biolink:OntologyClass:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:BiologicalProcess-biolink:positively_regulates-biolink:BiologicalProcess:
+      count: 2753
+      provided_by:
+        unknown:
+          count: 2753
+    biolink:BiologicalProcess-biolink:positively_regulates-biolink:MolecularActivity:
+      count: 263
+      provided_by:
+        unknown:
+          count: 263
+    biolink:BiologicalProcess-biolink:positively_regulates-biolink:NamedThing:
+      count: 3
+      provided_by:
+        unknown:
+          count: 3
+    biolink:BiologicalProcess-biolink:positively_regulates-biolink:OntologyClass:
+      count: 1718
+      provided_by:
+        unknown:
+          count: 1718
+    biolink:BiologicalProcess-biolink:positively_regulates-biolink:Protein:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:BiologicalProcess-biolink:preceded_by-biolink:BiologicalProcess:
+      count: 8
+      provided_by:
+        unknown:
+          count: 8
+    biolink:BiologicalProcess-biolink:preceded_by-biolink:OntologyClass:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:BiologicalProcess-biolink:precedes-biolink:BiologicalProcess:
+      count: 7
+      provided_by:
+        unknown:
+          count: 7
+    biolink:BiologicalProcess-biolink:regulates-biolink:AnatomicalEntity:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:BiologicalProcess-biolink:regulates-biolink:BiologicalProcess:
+      count: 3210
+      provided_by:
+        unknown:
+          count: 3210
+    biolink:BiologicalProcess-biolink:regulates-biolink:MolecularActivity:
+      count: 295
+      provided_by:
+        unknown:
+          count: 295
+    biolink:BiologicalProcess-biolink:regulates-biolink:NamedThing:
+      count: 4
+      provided_by:
+        unknown:
+          count: 4
+    biolink:BiologicalProcess-biolink:regulates-biolink:OntologyClass:
+      count: 2019
+      provided_by:
+        unknown:
+          count: 2019
+    biolink:BiologicalProcess-biolink:related_to-biolink:AnatomicalEntity:
+      count: 19
+      provided_by:
+        unknown:
+          count: 19
+    biolink:BiologicalProcess-biolink:related_to-biolink:BiologicalProcess:
+      count: 14
+      provided_by:
+        unknown:
+          count: 14
+    biolink:BiologicalProcess-biolink:related_to-biolink:Cell:
+      count: 114
+      provided_by:
+        unknown:
+          count: 114
+    biolink:BiologicalProcess-biolink:related_to-biolink:CellularComponent:
+      count: 484
+      provided_by:
+        unknown:
+          count: 484
+    biolink:BiologicalProcess-biolink:related_to-biolink:ChemicalSubstance:
+      count: 63
+      provided_by:
+        unknown:
+          count: 63
+    biolink:BiologicalProcess-biolink:related_to-biolink:Drug:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:BiologicalProcess-biolink:related_to-biolink:OntologyClass:
+      count: 445
+      provided_by:
+        unknown:
+          count: 445
+    biolink:BiologicalProcess-biolink:subclass_of-biolink:BiologicalProcess:
+      count: 52336
+      provided_by:
+        unknown:
+          count: 52336
+    biolink:BiologicalProcess-biolink:subclass_of-biolink:OntologyClass:
+      count: 31870
+      provided_by:
+        unknown:
+          count: 31870
+    biolink:BiologicalProcess-biolink:temporally_related_to-biolink:BiologicalProcess:
+      count: 44
+      provided_by:
+        unknown:
+          count: 44
+    biolink:BiologicalProcess-biolink:temporally_related_to-biolink:CellularComponent:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:BiologicalProcess-biolink:temporally_related_to-biolink:MolecularActivity:
+      count: 68
+      provided_by:
+        unknown:
+          count: 68
+    biolink:BiologicalProcess-biolink:temporally_related_to-biolink:OntologyClass:
+      count: 69
+      provided_by:
+        unknown:
+          count: 69
+    biolink:Cell-biolink:capable_of-biolink:BiologicalProcess:
+      count: 144
+      provided_by:
+        unknown:
+          count: 144
+    biolink:Cell-biolink:capable_of-biolink:MolecularActivity:
+      count: 2
+      provided_by:
+        unknown:
+          count: 2
+    biolink:Cell-biolink:capable_of-biolink:OntologyClass:
+      count: 145
+      provided_by:
+        unknown:
+          count: 145
+    biolink:Cell-biolink:coexists_with-biolink:AnatomicalEntity:
+      count: 4
+      provided_by:
+        unknown:
+          count: 4
+    biolink:Cell-biolink:develops_from-biolink:Cell:
+      count: 323
+      provided_by:
+        unknown:
+          count: 323
+    biolink:Cell-biolink:has_part-biolink:Cell:
+      count: 11
+      provided_by:
+        unknown:
+          count: 11
+    biolink:Cell-biolink:has_part-biolink:CellularComponent:
+      count: 50
+      provided_by:
+        unknown:
+          count: 50
+    biolink:Cell-biolink:has_part-biolink:OntologyClass:
+      count: 61
+      provided_by:
+        unknown:
+          count: 61
+    biolink:Cell-biolink:has_part-biolink:Protein:
+      count: 35
+      provided_by:
+        unknown:
+          count: 35
+    biolink:Cell-biolink:in_taxon-biolink:OrganismalEntity:
+      count: 16
+      provided_by:
+        unknown:
+          count: 16
+    biolink:Cell-biolink:interacts_with-biolink:Cell:
+      count: 6
+      provided_by:
+        unknown:
+          count: 6
+    biolink:Cell-biolink:located_in-biolink:AnatomicalEntity:
+      count: 2
+      provided_by:
+        unknown:
+          count: 2
+    biolink:Cell-biolink:overlaps-biolink:AnatomicalEntity:
+      count: 14
+      provided_by:
+        unknown:
+          count: 14
+    biolink:Cell-biolink:overlaps-biolink:NamedThing:
+      count: 4
+      provided_by:
+        unknown:
+          count: 4
+    biolink:Cell-biolink:part_of-biolink:AnatomicalEntity:
+      count: 533
+      provided_by:
+        unknown:
+          count: 533
+    biolink:Cell-biolink:part_of-biolink:NamedThing:
+      count: 11
+      provided_by:
+        unknown:
+          count: 11
+    biolink:Cell-biolink:participates_in-biolink:BiologicalProcess:
+      count: 14
+      provided_by:
+        unknown:
+          count: 14
+    biolink:Cell-biolink:participates_in-biolink:OntologyClass:
+      count: 14
+      provided_by:
+        unknown:
+          count: 14
+    biolink:Cell-biolink:produces-biolink:AnatomicalEntity:
+      count: 4
+      provided_by:
+        unknown:
+          count: 4
+    biolink:Cell-biolink:produces-biolink:CellularComponent:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:Cell-biolink:produces-biolink:OntologyClass:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:Cell-biolink:related_to-biolink:BiologicalProcess:
+      count: 13
+      provided_by:
+        unknown:
+          count: 13
+    biolink:Cell-biolink:related_to-biolink:CellularComponent:
+      count: 34
+      provided_by:
+        unknown:
+          count: 34
+    biolink:Cell-biolink:related_to-biolink:NamedThing:
+      count: 2
+      provided_by:
+        unknown:
+          count: 2
+    biolink:Cell-biolink:related_to-biolink:OntologyClass:
+      count: 77
+      provided_by:
+        unknown:
+          count: 77
+    biolink:Cell-biolink:subclass_of-biolink:Cell:
+      count: 2206
+      provided_by:
+        unknown:
+          count: 2206
+    biolink:Cell-biolink:subclass_of-biolink:CellularComponent:
+      count: 6
+      provided_by:
+        unknown:
+          count: 6
+    biolink:Cell-biolink:subclass_of-biolink:NamedThing:
+      count: 24
+      provided_by:
+        unknown:
+          count: 24
+    biolink:Cell-biolink:subclass_of-biolink:OntologyClass:
+      count: 7
+      provided_by:
+        unknown:
+          count: 7
+    biolink:CellularComponent-None-biolink:NamedThing:
+      count: 3
+      provided_by:
+        unknown:
+          count: 3
+    biolink:CellularComponent-None-biolink:OntologyClass:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:CellularComponent-biolink:capable_of-biolink:BiologicalProcess:
+      count: 33
+      provided_by:
+        unknown:
+          count: 33
+    biolink:CellularComponent-biolink:capable_of-biolink:MolecularActivity:
+      count: 461
+      provided_by:
+        unknown:
+          count: 461
+    biolink:CellularComponent-biolink:capable_of-biolink:NamedThing:
+      count: 2
+      provided_by:
+        unknown:
+          count: 2
+    biolink:CellularComponent-biolink:capable_of-biolink:OntologyClass:
+      count: 341
+      provided_by:
+        unknown:
+          count: 341
+    biolink:CellularComponent-biolink:coexists_with-biolink:CellularComponent:
+      count: 26
+      provided_by:
+        unknown:
+          count: 26
+    biolink:CellularComponent-biolink:coexists_with-biolink:OntologyClass:
+      count: 19
+      provided_by:
+        unknown:
+          count: 19
+    biolink:CellularComponent-biolink:has_part-biolink:CellularComponent:
+      count: 179
+      provided_by:
+        unknown:
+          count: 179
+    biolink:CellularComponent-biolink:has_part-biolink:ChemicalSubstance:
+      count: 16
+      provided_by:
+        unknown:
+          count: 16
+    biolink:CellularComponent-biolink:has_part-biolink:Drug:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:CellularComponent-biolink:has_part-biolink:NamedThing:
+      count: 5
+      provided_by:
+        unknown:
+          count: 5
+    biolink:CellularComponent-biolink:has_part-biolink:OntologyClass:
+      count: 97
+      provided_by:
+        unknown:
+          count: 97
+    biolink:CellularComponent-biolink:has_part-biolink:Protein:
+      count: 2
+      provided_by:
+        unknown:
+          count: 2
+    biolink:CellularComponent-biolink:in_taxon-biolink:OrganismalEntity:
+      count: 257
+      provided_by:
+        unknown:
+          count: 257
+    biolink:CellularComponent-biolink:negatively_regulates-biolink:NamedThing:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:CellularComponent-biolink:overlaps-biolink:Cell:
+      count: 15
+      provided_by:
+        unknown:
+          count: 15
+    biolink:CellularComponent-biolink:overlaps-biolink:CellularComponent:
+      count: 24
+      provided_by:
+        unknown:
+          count: 24
+    biolink:CellularComponent-biolink:overlaps-biolink:OntologyClass:
+      count: 19
+      provided_by:
+        unknown:
+          count: 19
+    biolink:CellularComponent-biolink:part_of-biolink:Cell:
+      count: 153
+      provided_by:
+        unknown:
+          count: 153
+    biolink:CellularComponent-biolink:part_of-biolink:CellularComponent:
+      count: 1988
+      provided_by:
+        unknown:
+          count: 1988
+    biolink:CellularComponent-biolink:part_of-biolink:NamedThing:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:CellularComponent-biolink:part_of-biolink:OntologyClass:
+      count: 1569
+      provided_by:
+        unknown:
+          count: 1569
+    biolink:CellularComponent-biolink:participates_in-biolink:BiologicalProcess:
+      count: 294
+      provided_by:
+        unknown:
+          count: 294
+    biolink:CellularComponent-biolink:participates_in-biolink:MolecularActivity:
+      count: 9
+      provided_by:
+        unknown:
+          count: 9
+    biolink:CellularComponent-biolink:participates_in-biolink:OntologyClass:
+      count: 180
+      provided_by:
+        unknown:
+          count: 180
+    biolink:CellularComponent-biolink:positively_regulates-biolink:CellularComponent:
+      count: 4
+      provided_by:
+        unknown:
+          count: 4
+    biolink:CellularComponent-biolink:positively_regulates-biolink:NamedThing:
+      count: 5
+      provided_by:
+        unknown:
+          count: 5
+    biolink:CellularComponent-biolink:positively_regulates-biolink:OntologyClass:
+      count: 2
+      provided_by:
+        unknown:
+          count: 2
+    biolink:CellularComponent-biolink:precedes-biolink:CellularComponent:
+      count: 4
+      provided_by:
+        unknown:
+          count: 4
+    biolink:CellularComponent-biolink:precedes-biolink:NamedThing:
+      count: 5
+      provided_by:
+        unknown:
+          count: 5
+    biolink:CellularComponent-biolink:precedes-biolink:Protein:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:CellularComponent-biolink:related_to-biolink:CellularComponent:
+      count: 5
+      provided_by:
+        unknown:
+          count: 5
+    biolink:CellularComponent-biolink:related_to-biolink:Gene:
+      count: 2
+      provided_by:
+        unknown:
+          count: 2
+    biolink:CellularComponent-biolink:related_to-biolink:MolecularActivity:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:CellularComponent-biolink:related_to-biolink:NamedThing:
+      count: 30
+      provided_by:
+        unknown:
+          count: 30
+    biolink:CellularComponent-biolink:related_to-biolink:OntologyClass:
+      count: 6
+      provided_by:
+        unknown:
+          count: 6
+    biolink:CellularComponent-biolink:related_to-biolink:SequenceFeature:
+      count: 6
+      provided_by:
+        unknown:
+          count: 6
+    biolink:CellularComponent-biolink:subclass_of-biolink:CellularComponent:
+      count: 4843
+      provided_by:
+        unknown:
+          count: 4843
+    biolink:CellularComponent-biolink:subclass_of-biolink:NamedThing:
+      count: 443
+      provided_by:
+        unknown:
+          count: 443
+    biolink:CellularComponent-biolink:subclass_of-biolink:OntologyClass:
+      count: 3431
+      provided_by:
+        unknown:
+          count: 3431
+    biolink:ChemicalSubstance-biolink:has_attribute-biolink:ChemicalSubstance:
+      count: 39857
+      provided_by:
+        unknown:
+          count: 39857
+    biolink:ChemicalSubstance-biolink:has_part-biolink:ChemicalSubstance:
+      count: 3795
+      provided_by:
+        unknown:
+          count: 3795
+    biolink:ChemicalSubstance-biolink:has_part-biolink:Drug:
+      count: 166
+      provided_by:
+        unknown:
+          count: 166
+    biolink:ChemicalSubstance-biolink:interacts_with-biolink:ChemicalSubstance:
+      count: 12
+      provided_by:
+        intact:
+          count: 12
+    biolink:ChemicalSubstance-biolink:interacts_with-biolink:Drug:
+      count: 12
+      provided_by:
+        intact:
+          count: 12
+    biolink:ChemicalSubstance-biolink:interacts_with-biolink:Gene:
+      count: 5268
+      provided_by:
+        intact:
+          count: 4
+        pharmgkb:
+          count: 5264
+    biolink:ChemicalSubstance-biolink:interacts_with-biolink:NamedThing:
+      count: 136
+      provided_by:
+        intact:
+          count: 20
+        pharmgkb:
+          count: 116
+    biolink:ChemicalSubstance-biolink:interacts_with-biolink:Protein:
+      count: 2688
+      provided_by:
+        intact:
+          count: 120
+        pharmgkb:
+          count: 2568
+    biolink:ChemicalSubstance-biolink:interacts_with-biolink:RNA:
+      count: 1
+      provided_by:
+        intact:
+          count: 1
+    biolink:ChemicalSubstance-biolink:related_to-biolink:ChemicalSubstance:
+      count: 40618
+      provided_by:
+        unknown:
+          count: 40618
+    biolink:ChemicalSubstance-biolink:related_to-biolink:Drug:
+      count: 1080
+      provided_by:
+        unknown:
+          count: 1080
+    biolink:ChemicalSubstance-biolink:subclass_of-biolink:ChemicalSubstance:
+      count: 192739
+      provided_by:
+        unknown:
+          count: 192739
+    biolink:ChemicalSubstance-biolink:subclass_of-biolink:Drug:
+      count: 123
+      provided_by:
+        unknown:
+          count: 123
+    biolink:ChemicalSubstance-biolink:subclass_of-biolink:NamedThing:
+      count: 13
+      provided_by:
+        unknown:
+          count: 13
+    biolink:ChemicalSubstance-biolink:subclass_of-biolink:OntologyClass:
+      count: 13
+      provided_by:
+        unknown:
+          count: 13
+    biolink:ChemicalSubstance-biolink:subclass_of-biolink:Protein:
+      count: 5
+      provided_by:
+        unknown:
+          count: 5
+    biolink:ChemicalSubstance-biolink:subclass_of-biolink:SequenceFeature:
+      count: 23
+      provided_by:
+        unknown:
+          count: 23
+    biolink:Disease-None-biolink:OntologyClass:
+      count: 2
+      provided_by:
+        unknown:
+          count: 2
+    biolink:Disease-biolink:associated_with-biolink:Disease:
+      count: 301
+      provided_by:
+        unknown:
+          count: 301
+    biolink:Disease-biolink:associated_with-biolink:OntologyClass:
+      count: 781
+      provided_by:
+        unknown:
+          count: 781
+    biolink:Disease-biolink:associated_with-biolink:PhenotypicFeature:
+      count: 806
+      provided_by:
+        unknown:
+          count: 806
+    biolink:Disease-biolink:caused_by-biolink:AnatomicalEntity:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:Disease-biolink:caused_by-biolink:BiologicalProcess:
+      count: 4
+      provided_by:
+        unknown:
+          count: 4
+    biolink:Disease-biolink:caused_by-biolink:Cell:
+      count: 4
+      provided_by:
+        unknown:
+          count: 4
+    biolink:Disease-biolink:caused_by-biolink:CellularComponent:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:Disease-biolink:caused_by-biolink:ChemicalSubstance:
+      count: 27
+      provided_by:
+        unknown:
+          count: 27
+    biolink:Disease-biolink:caused_by-biolink:Drug:
+      count: 9
+      provided_by:
+        unknown:
+          count: 9
+    biolink:Disease-biolink:caused_by-biolink:OntologyClass:
+      count: 72
+      provided_by:
+        unknown:
+          count: 72
+    biolink:Disease-biolink:causes-biolink:OntologyClass:
+      count: 4
+      provided_by:
+        unknown:
+          count: 4
+    biolink:Disease-biolink:disrupts-biolink:AnatomicalEntity:
+      count: 2
+      provided_by:
+        unknown:
+          count: 2
+    biolink:Disease-biolink:disrupts-biolink:BiologicalProcess:
+      count: 83
+      provided_by:
+        unknown:
+          count: 83
+    biolink:Disease-biolink:disrupts-biolink:Cell:
+      count: 4
+      provided_by:
+        unknown:
+          count: 4
+    biolink:Disease-biolink:disrupts-biolink:MolecularActivity:
+      count: 7
+      provided_by:
+        unknown:
+          count: 7
+    biolink:Disease-biolink:disrupts-biolink:OntologyClass:
+      count: 98
+      provided_by:
+        unknown:
+          count: 98
+    biolink:Disease-biolink:has_participant-biolink:BiologicalProcess:
+      count: 175
+      provided_by:
+        unknown:
+          count: 175
+    biolink:Disease-biolink:has_participant-biolink:CellularComponent:
+      count: 2
+      provided_by:
+        unknown:
+          count: 2
+    biolink:Disease-biolink:has_participant-biolink:MolecularActivity:
+      count: 98
+      provided_by:
+        unknown:
+          count: 98
+    biolink:Disease-biolink:has_participant-biolink:OntologyClass:
+      count: 280
+      provided_by:
+        unknown:
+          count: 280
+    biolink:Disease-biolink:has_phenotype-biolink:Disease:
+      count: 66
+      provided_by:
+        unknown:
+          count: 66
+    biolink:Disease-biolink:has_phenotype-biolink:OntologyClass:
+      count: 39
+      provided_by:
+        unknown:
+          count: 39
+    biolink:Disease-biolink:has_phenotype-biolink:PhenotypicFeature:
+      count: 42
+      provided_by:
+        unknown:
+          count: 42
+    biolink:Disease-biolink:in_taxon-biolink:OrganismalEntity:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:Disease-biolink:related_to-biolink:AnatomicalEntity:
+      count: 1026
+      provided_by:
+        unknown:
+          count: 1026
+    biolink:Disease-biolink:related_to-biolink:BiologicalProcess:
+      count: 11
+      provided_by:
+        unknown:
+          count: 11
+    biolink:Disease-biolink:related_to-biolink:Cell:
+      count: 113
+      provided_by:
+        unknown:
+          count: 113
+    biolink:Disease-biolink:related_to-biolink:CellularComponent:
+      count: 31
+      provided_by:
+        unknown:
+          count: 31
+    biolink:Disease-biolink:related_to-biolink:ChemicalSubstance:
+      count: 15
+      provided_by:
+        unknown:
+          count: 15
+    biolink:Disease-biolink:related_to-biolink:Disease:
+      count: 1104
+      provided_by:
+        unknown:
+          count: 1104
+    biolink:Disease-biolink:related_to-biolink:Drug:
+      count: 5
+      provided_by:
+        unknown:
+          count: 5
+    biolink:Disease-biolink:related_to-biolink:NamedThing:
+      count: 11
+      provided_by:
+        unknown:
+          count: 11
+    biolink:Disease-biolink:related_to-biolink:OntologyClass:
+      count: 5003
+      provided_by:
+        unknown:
+          count: 5003
+    biolink:Disease-biolink:related_to-biolink:OrganismTaxon:
+      count: 2
+      provided_by:
+        unknown:
+          count: 2
+    biolink:Disease-biolink:related_to-biolink:OrganismalEntity:
+      count: 576
+      provided_by:
+        unknown:
+          count: 576
+    biolink:Disease-biolink:related_to-biolink:PhenotypicFeature:
+      count: 263
+      provided_by:
+        unknown:
+          count: 263
+    biolink:Disease-biolink:related_to-biolink:SequenceFeature:
+      count: 27
+      provided_by:
+        unknown:
+          count: 27
+    biolink:Disease-biolink:subclass_of-biolink:Disease:
+      count: 37472
+      provided_by:
+        unknown:
+          count: 37472
+    biolink:Disease-biolink:subclass_of-biolink:OntologyClass:
+      count: 3
+      provided_by:
+        unknown:
+          count: 3
+    biolink:Drug-biolink:has_attribute-biolink:ChemicalSubstance:
+      count: 2040
+      provided_by:
+        unknown:
+          count: 2040
+    biolink:Drug-biolink:has_part-biolink:ChemicalSubstance:
+      count: 53
+      provided_by:
+        unknown:
+          count: 53
+    biolink:Drug-biolink:has_part-biolink:Drug:
+      count: 3
+      provided_by:
+        unknown:
+          count: 3
+    biolink:Drug-biolink:interacts_with-biolink:ChemicalSubstance:
+      count: 16
+      provided_by:
+        intact:
+          count: 16
+    biolink:Drug-biolink:interacts_with-biolink:Drug:
+      count: 16
+      provided_by:
+        intact:
+          count: 16
+    biolink:Drug-biolink:interacts_with-biolink:Gene:
+      count: 17270
+      provided_by:
+        intact:
+          count: 4
+        pharmgkb:
+          count: 8761
+        ttd:
+          count: 8505
+    biolink:Drug-biolink:interacts_with-biolink:NamedThing:
+      count: 382
+      provided_by:
+        intact:
+          count: 25
+        pharmgkb:
+          count: 202
+        ttd:
+          count: 155
+    biolink:Drug-biolink:interacts_with-biolink:OntologyClass:
+      count: 8208
+      provided_by:
+        ChEMBL SARS-CoV-2 subset:
+          count: 8208
+    biolink:Drug-biolink:interacts_with-biolink:OrganismTaxon:
+      count: 8208
+      provided_by:
+        ChEMBL SARS-CoV-2 subset:
+          count: 8208
+    biolink:Drug-biolink:interacts_with-biolink:OrganismalEntity:
+      count: 8208
+      provided_by:
+        ChEMBL SARS-CoV-2 subset:
+          count: 8208
+    biolink:Drug-biolink:interacts_with-biolink:Protein:
+      count: 88338
+      provided_by:
+        intact:
+          count: 139
+        pharmgkb:
+          count: 4220
+        ttd:
+          count: 83979
+    biolink:Drug-biolink:interacts_with-biolink:RNA:
+      count: 3
+      provided_by:
+        intact:
+          count: 3
+    biolink:Drug-biolink:interacts_with-unknown:
+      count: 868
+      provided_by:
+        ChEMBL SARS-CoV-2 subset:
+          count: 868
+    biolink:Drug-biolink:molecularly_interacts_with-biolink:Gene:
+      count: 6798
+      provided_by:
+        drug_central:
+          count: 6798
+    biolink:Drug-biolink:molecularly_interacts_with-biolink:NamedThing:
+      count: 480
+      provided_by:
+        drug_central:
+          count: 480
+    biolink:Drug-biolink:molecularly_interacts_with-biolink:Protein:
+      count: 15257
+      provided_by:
+        drug_central:
+          count: 15257
+    biolink:Drug-biolink:related_to-biolink:ChemicalSubstance:
+      count: 338
+      provided_by:
+        unknown:
+          count: 338
+    biolink:Drug-biolink:related_to-biolink:Drug:
+      count: 15
+      provided_by:
+        unknown:
+          count: 15
+    biolink:Drug-biolink:subclass_of-biolink:ChemicalSubstance:
+      count: 1546
+      provided_by:
+        unknown:
+          count: 1546
+    biolink:Gene-None-biolink:NamedThing:
+      count: 2
+      provided_by:
+        unknown:
+          count: 2
+    biolink:Gene-None-biolink:Protein:
+      count: 2
+      provided_by:
+        unknown:
+          count: 2
+    biolink:Gene-biolink:enabled_by-biolink:Gene:
+      count: 4
+      provided_by:
+        unknown:
+          count: 4
+    biolink:Gene-biolink:enabled_by-biolink:MolecularActivity:
+      count: 2
+      provided_by:
+        unknown:
+          count: 2
+    biolink:Gene-biolink:enabled_by-biolink:NamedThing:
+      count: 11
+      provided_by:
+        unknown:
+          count: 11
+    biolink:Gene-biolink:enabled_by-biolink:OntologyClass:
+      count: 2
+      provided_by:
+        unknown:
+          count: 2
+    biolink:Gene-biolink:enabled_by-biolink:Protein:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:Gene-biolink:has_gene_product-biolink:Protein:
+      count: 17560
+      provided_by:
+        NCBI:
+          count: 17560
+    biolink:Gene-biolink:interacts_with-biolink:ChemicalSubstance:
+      count: 9
+      provided_by:
+        intact:
+          count: 9
+    biolink:Gene-biolink:interacts_with-biolink:Drug:
+      count: 13
+      provided_by:
+        intact:
+          count: 13
+    biolink:Gene-biolink:interacts_with-biolink:Gene:
+      count: 4
+      provided_by:
+        intact:
+          count: 4
+    biolink:Gene-biolink:interacts_with-biolink:NamedThing:
+      count: 30
+      provided_by:
+        intact:
+          count: 30
+    biolink:Gene-biolink:interacts_with-biolink:OntologyClass:
+      count: 64
+      provided_by:
+        zhou_host_proteins:
+          count: 64
+    biolink:Gene-biolink:interacts_with-biolink:OrganismalEntity:
+      count: 127
+      provided_by:
+        zhou_host_proteins:
+          count: 127
+    biolink:Gene-biolink:interacts_with-biolink:Protein:
+      count: 142
+      provided_by:
+        intact:
+          count: 142
+    biolink:Gene-biolink:interacts_with-biolink:RNA:
+      count: 2
+      provided_by:
+        intact:
+          count: 2
+    biolink:Gene-biolink:negatively_regulates-biolink:Gene:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:Gene-biolink:negatively_regulates-biolink:NamedThing:
+      count: 4
+      provided_by:
+        unknown:
+          count: 4
+    biolink:Gene-biolink:negatively_regulates-biolink:Protein:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:Gene-biolink:part_of-biolink:CellularComponent:
+      count: 3
+      provided_by:
+        unknown:
+          count: 3
+    biolink:Gene-biolink:part_of-biolink:Gene:
+      count: 5
+      provided_by:
+        unknown:
+          count: 5
+    biolink:Gene-biolink:part_of-biolink:NamedThing:
+      count: 9
+      provided_by:
+        unknown:
+          count: 9
+    biolink:Gene-biolink:part_of-biolink:Protein:
+      count: 3
+      provided_by:
+        unknown:
+          count: 3
+    biolink:Gene-biolink:positively_regulates-biolink:Gene:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:Gene-biolink:positively_regulates-biolink:NamedThing:
+      count: 5
+      provided_by:
+        unknown:
+          count: 5
+    biolink:Gene-biolink:positively_regulates-biolink:Protein:
+      count: 3
+      provided_by:
+        unknown:
+          count: 3
+    biolink:Gene-biolink:precedes-biolink:CellularComponent:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:Gene-biolink:precedes-biolink:NamedThing:
+      count: 3
+      provided_by:
+        unknown:
+          count: 3
+    biolink:Gene-biolink:precedes-biolink:OntologyClass:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:Gene-biolink:precedes-biolink:Protein:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:Gene-biolink:related_to-biolink:CellularComponent:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:Gene-biolink:related_to-biolink:Gene:
+      count: 10
+      provided_by:
+        unknown:
+          count: 10
+    biolink:Gene-biolink:related_to-biolink:NamedThing:
+      count: 32
+      provided_by:
+        unknown:
+          count: 32
+    biolink:Gene-biolink:related_to-biolink:OntologyClass:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:Gene-biolink:related_to-biolink:Protein:
+      count: 14
+      provided_by:
+        unknown:
+          count: 14
+    biolink:MolecularActivity-biolink:affects_transport_of-biolink:BiologicalProcess:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:MolecularActivity-biolink:affects_transport_of-biolink:ChemicalSubstance:
+      count: 544
+      provided_by:
+        unknown:
+          count: 544
+    biolink:MolecularActivity-biolink:affects_transport_of-biolink:Drug:
+      count: 17
+      provided_by:
+        unknown:
+          count: 17
+    biolink:MolecularActivity-biolink:affects_transport_of-biolink:NamedThing:
+      count: 2
+      provided_by:
+        unknown:
+          count: 2
+    biolink:MolecularActivity-biolink:affects_transport_of-biolink:OntologyClass:
+      count: 8
+      provided_by:
+        unknown:
+          count: 8
+    biolink:MolecularActivity-biolink:affects_transport_of-biolink:Protein:
+      count: 2
+      provided_by:
+        unknown:
+          count: 2
+    biolink:MolecularActivity-biolink:enabled_by-biolink:Gene:
+      count: 2
+      provided_by:
+        unknown:
+          count: 2
+    biolink:MolecularActivity-biolink:enabled_by-biolink:MolecularActivity:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:MolecularActivity-biolink:enabled_by-biolink:NamedThing:
+      count: 10
+      provided_by:
+        unknown:
+          count: 10
+    biolink:MolecularActivity-biolink:enabled_by-biolink:OntologyClass:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:MolecularActivity-biolink:enabled_by-biolink:Protein:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:MolecularActivity-biolink:has_input-biolink:CellularComponent:
+      count: 100
+      provided_by:
+        unknown:
+          count: 100
+    biolink:MolecularActivity-biolink:has_input-biolink:ChemicalSubstance:
+      count: 520
+      provided_by:
+        unknown:
+          count: 520
+    biolink:MolecularActivity-biolink:has_input-biolink:Drug:
+      count: 27
+      provided_by:
+        unknown:
+          count: 27
+    biolink:MolecularActivity-biolink:has_input-biolink:NamedThing:
+      count: 11
+      provided_by:
+        unknown:
+          count: 11
+    biolink:MolecularActivity-biolink:has_input-biolink:OntologyClass:
+      count: 96
+      provided_by:
+        unknown:
+          count: 96
+    biolink:MolecularActivity-biolink:has_input-biolink:Protein:
+      count: 289
+      provided_by:
+        unknown:
+          count: 289
+    biolink:MolecularActivity-biolink:has_input-biolink:SequenceFeature:
+      count: 13
+      provided_by:
+        unknown:
+          count: 13
+    biolink:MolecularActivity-biolink:has_output-biolink:ChemicalSubstance:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:MolecularActivity-biolink:has_part-biolink:MolecularActivity:
+      count: 214
+      provided_by:
+        unknown:
+          count: 214
+    biolink:MolecularActivity-biolink:has_part-biolink:NamedThing:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:MolecularActivity-biolink:has_part-biolink:OntologyClass:
+      count: 158
+      provided_by:
+        unknown:
+          count: 158
+    biolink:MolecularActivity-biolink:has_participant-biolink:CellularComponent:
+      count: 2
+      provided_by:
+        unknown:
+          count: 2
+    biolink:MolecularActivity-biolink:has_participant-biolink:ChemicalSubstance:
+      count: 3
+      provided_by:
+        unknown:
+          count: 3
+    biolink:MolecularActivity-biolink:has_participant-biolink:OntologyClass:
+      count: 2
+      provided_by:
+        unknown:
+          count: 2
+    biolink:MolecularActivity-biolink:has_participant-biolink:Protein:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:MolecularActivity-biolink:in_taxon-biolink:OrganismalEntity:
+      count: 43
+      provided_by:
+        unknown:
+          count: 43
+    biolink:MolecularActivity-biolink:negatively_regulates-biolink:MolecularActivity:
+      count: 62
+      provided_by:
+        unknown:
+          count: 62
+    biolink:MolecularActivity-biolink:negatively_regulates-biolink:NamedThing:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:MolecularActivity-biolink:negatively_regulates-biolink:OntologyClass:
+      count: 59
+      provided_by:
+        unknown:
+          count: 59
+    biolink:MolecularActivity-biolink:occurs_in-biolink:AnatomicalEntity:
+      count: 9
+      provided_by:
+        unknown:
+          count: 9
+    biolink:MolecularActivity-biolink:occurs_in-biolink:CellularComponent:
+      count: 43
+      provided_by:
+        unknown:
+          count: 43
+    biolink:MolecularActivity-biolink:occurs_in-biolink:OntologyClass:
+      count: 40
+      provided_by:
+        unknown:
+          count: 40
+    biolink:MolecularActivity-biolink:part_of-biolink:BiologicalProcess:
+      count: 1044
+      provided_by:
+        unknown:
+          count: 1044
+    biolink:MolecularActivity-biolink:part_of-biolink:MolecularActivity:
+      count: 11
+      provided_by:
+        unknown:
+          count: 11
+    biolink:MolecularActivity-biolink:part_of-biolink:OntologyClass:
+      count: 509
+      provided_by:
+        unknown:
+          count: 509
+    biolink:MolecularActivity-biolink:positively_regulates-biolink:MolecularActivity:
+      count: 48
+      provided_by:
+        unknown:
+          count: 48
+    biolink:MolecularActivity-biolink:positively_regulates-biolink:NamedThing:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:MolecularActivity-biolink:positively_regulates-biolink:OntologyClass:
+      count: 44
+      provided_by:
+        unknown:
+          count: 44
+    biolink:MolecularActivity-biolink:positively_regulates-biolink:Protein:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:MolecularActivity-biolink:regulates-biolink:BiologicalProcess:
+      count: 2
+      provided_by:
+        unknown:
+          count: 2
+    biolink:MolecularActivity-biolink:regulates-biolink:MolecularActivity:
+      count: 53
+      provided_by:
+        unknown:
+          count: 53
+    biolink:MolecularActivity-biolink:regulates-biolink:NamedThing:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:MolecularActivity-biolink:regulates-biolink:OntologyClass:
+      count: 52
+      provided_by:
+        unknown:
+          count: 52
+    biolink:MolecularActivity-biolink:related_to-biolink:CellularComponent:
+      count: 2
+      provided_by:
+        unknown:
+          count: 2
+    biolink:MolecularActivity-biolink:related_to-biolink:OntologyClass:
+      count: 2
+      provided_by:
+        unknown:
+          count: 2
+    biolink:MolecularActivity-biolink:subclass_of-biolink:MolecularActivity:
+      count: 13629
+      provided_by:
+        unknown:
+          count: 13629
+    biolink:MolecularActivity-biolink:subclass_of-biolink:NamedThing:
+      count: 53
+      provided_by:
+        unknown:
+          count: 53
+    biolink:MolecularActivity-biolink:subclass_of-biolink:OntologyClass:
+      count: 8976
+      provided_by:
+        unknown:
+          count: 8976
+    biolink:MolecularEntity-biolink:interacts_with-biolink:Protein:
+      count: 1
+      provided_by:
+        intact:
+          count: 1
+    biolink:NamedThing-None-biolink:CellularComponent:
+      count: 6
+      provided_by:
+        unknown:
+          count: 6
+    biolink:NamedThing-None-biolink:Gene:
+      count: 3
+      provided_by:
+        unknown:
+          count: 3
+    biolink:NamedThing-None-biolink:NamedThing:
+      count: 85
+      provided_by:
+        unknown:
+          count: 85
+    biolink:NamedThing-None-biolink:OntologyClass:
+      count: 7
+      provided_by:
+        unknown:
+          count: 7
+    biolink:NamedThing-None-biolink:Protein:
+      count: 9
+      provided_by:
+        unknown:
+          count: 9
+    biolink:NamedThing-biolink:affects_transport_of-biolink:NamedThing:
+      count: 8
+      provided_by:
+        unknown:
+          count: 8
+    biolink:NamedThing-biolink:capable_of-biolink:BiologicalProcess:
+      count: 2
+      provided_by:
+        unknown:
+          count: 2
+    biolink:NamedThing-biolink:capable_of-biolink:MolecularActivity:
+      count: 15
+      provided_by:
+        unknown:
+          count: 15
+    biolink:NamedThing-biolink:capable_of-biolink:NamedThing:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:NamedThing-biolink:capable_of-biolink:OntologyClass:
+      count: 13
+      provided_by:
+        unknown:
+          count: 13
+    biolink:NamedThing-biolink:causes-biolink:OntologyClass:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:NamedThing-biolink:develops_from-biolink:AnatomicalEntity:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:NamedThing-biolink:develops_from-biolink:Cell:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:NamedThing-biolink:enabled_by-biolink:Gene:
+      count: 10
+      provided_by:
+        unknown:
+          count: 10
+    biolink:NamedThing-biolink:enabled_by-biolink:MolecularActivity:
+      count: 5
+      provided_by:
+        unknown:
+          count: 5
+    biolink:NamedThing-biolink:enabled_by-biolink:NamedThing:
+      count: 34
+      provided_by:
+        unknown:
+          count: 34
+    biolink:NamedThing-biolink:enabled_by-biolink:OntologyClass:
+      count: 5
+      provided_by:
+        unknown:
+          count: 5
+    biolink:NamedThing-biolink:enabled_by-biolink:Protein:
+      count: 2
+      provided_by:
+        unknown:
+          count: 2
+    biolink:NamedThing-biolink:enables-biolink:MolecularActivity:
+      count: 28
+      provided_by:
+        sars_cov_2_gene_annot:
+          count: 28
+    biolink:NamedThing-biolink:enables-biolink:OntologyClass:
+      count: 28
+      provided_by:
+        sars_cov_2_gene_annot:
+          count: 28
+    biolink:NamedThing-biolink:has_attribute-biolink:ChemicalSubstance:
+      count: 4
+      provided_by:
+        unknown:
+          count: 4
+    biolink:NamedThing-biolink:has_input-biolink:CellularComponent:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:NamedThing-biolink:has_input-biolink:NamedThing:
+      count: 10
+      provided_by:
+        unknown:
+          count: 10
+    biolink:NamedThing-biolink:has_input-biolink:OntologyClass:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:NamedThing-biolink:has_input-biolink:Protein:
+      count: 2
+      provided_by:
+        unknown:
+          count: 2
+    biolink:NamedThing-biolink:has_part-biolink:Cell:
+      count: 4
+      provided_by:
+        unknown:
+          count: 4
+    biolink:NamedThing-biolink:has_part-biolink:CellularComponent:
+      count: 2
+      provided_by:
+        unknown:
+          count: 2
+    biolink:NamedThing-biolink:has_part-biolink:MolecularActivity:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:NamedThing-biolink:has_part-biolink:NamedThing:
+      count: 5
+      provided_by:
+        unknown:
+          count: 5
+    biolink:NamedThing-biolink:has_part-biolink:OntologyClass:
+      count: 2
+      provided_by:
+        unknown:
+          count: 2
+    biolink:NamedThing-biolink:has_part-biolink:Protein:
+      count: 6
+      provided_by:
+        unknown:
+          count: 6
+    biolink:NamedThing-biolink:has_participant-biolink:NamedThing:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:NamedThing-biolink:in_taxon-biolink:OrganismalEntity:
+      count: 2
+      provided_by:
+        unknown:
+          count: 2
+    biolink:NamedThing-biolink:interacts_with-biolink:ChemicalSubstance:
+      count: 28
+      provided_by:
+        intact:
+          count: 28
+    biolink:NamedThing-biolink:interacts_with-biolink:Drug:
+      count: 36
+      provided_by:
+        intact:
+          count: 36
+    biolink:NamedThing-biolink:interacts_with-biolink:Gene:
+      count: 9
+      provided_by:
+        intact:
+          count: 9
+    biolink:NamedThing-biolink:interacts_with-biolink:NamedThing:
+      count: 37
+      provided_by:
+        intact:
+          count: 37
+    biolink:NamedThing-biolink:interacts_with-biolink:Protein:
+      count: 194
+      provided_by:
+        intact:
+          count: 194
+    biolink:NamedThing-biolink:interacts_with-biolink:RNA:
+      count: 12
+      provided_by:
+        intact:
+          count: 12
+    biolink:NamedThing-biolink:involved_in-biolink:BiologicalProcess:
+      count: 37
+      provided_by:
+        sars_cov_2_gene_annot:
+          count: 37
+    biolink:NamedThing-biolink:involved_in-biolink:OntologyClass:
+      count: 37
+      provided_by:
+        sars_cov_2_gene_annot:
+          count: 37
+    biolink:NamedThing-biolink:located_in-biolink:AnatomicalEntity:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:NamedThing-biolink:negatively_regulates-biolink:CellularComponent:
+      count: 4
+      provided_by:
+        unknown:
+          count: 4
+    biolink:NamedThing-biolink:negatively_regulates-biolink:Gene:
+      count: 4
+      provided_by:
+        unknown:
+          count: 4
+    biolink:NamedThing-biolink:negatively_regulates-biolink:NamedThing:
+      count: 64
+      provided_by:
+        unknown:
+          count: 64
+    biolink:NamedThing-biolink:negatively_regulates-biolink:OntologyClass:
+      count: 3
+      provided_by:
+        unknown:
+          count: 3
+    biolink:NamedThing-biolink:negatively_regulates-biolink:Protein:
+      count: 20
+      provided_by:
+        unknown:
+          count: 20
+    biolink:NamedThing-biolink:occurs_in-biolink:BiologicalProcess:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:NamedThing-biolink:occurs_in-biolink:NamedThing:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:NamedThing-biolink:occurs_in-biolink:OntologyClass:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:NamedThing-biolink:overlaps-biolink:AnatomicalEntity:
+      count: 3
+      provided_by:
+        unknown:
+          count: 3
+    biolink:NamedThing-biolink:part_of-biolink:AnatomicalEntity:
+      count: 20
+      provided_by:
+        unknown:
+          count: 20
+    biolink:NamedThing-biolink:part_of-biolink:BiologicalProcess:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:NamedThing-biolink:part_of-biolink:CellularComponent:
+      count: 66
+      provided_by:
+        sars_cov_2_gene_annot:
+          count: 32
+        unknown:
+          count: 34
+    biolink:NamedThing-biolink:part_of-biolink:Gene:
+      count: 5
+      provided_by:
+        unknown:
+          count: 5
+    biolink:NamedThing-biolink:part_of-biolink:NamedThing:
+      count: 83
+      provided_by:
+        unknown:
+          count: 83
+    biolink:NamedThing-biolink:part_of-biolink:OntologyClass:
+      count: 62
+      provided_by:
+        sars_cov_2_gene_annot:
+          count: 36
+        unknown:
+          count: 26
+    biolink:NamedThing-biolink:part_of-biolink:Protein:
+      count: 9
+      provided_by:
+        unknown:
+          count: 9
+    biolink:NamedThing-biolink:participates_in-biolink:BiologicalProcess:
+      count: 9
+      provided_by:
+        unknown:
+          count: 9
+    biolink:NamedThing-biolink:participates_in-biolink:OntologyClass:
+      count: 6
+      provided_by:
+        unknown:
+          count: 6
+    biolink:NamedThing-biolink:positively_regulates-biolink:CellularComponent:
+      count: 8
+      provided_by:
+        unknown:
+          count: 8
+    biolink:NamedThing-biolink:positively_regulates-biolink:Gene:
+      count: 9
+      provided_by:
+        unknown:
+          count: 9
+    biolink:NamedThing-biolink:positively_regulates-biolink:NamedThing:
+      count: 1237
+      provided_by:
+        unknown:
+          count: 1237
+    biolink:NamedThing-biolink:positively_regulates-biolink:OntologyClass:
+      count: 5
+      provided_by:
+        unknown:
+          count: 5
+    biolink:NamedThing-biolink:positively_regulates-biolink:Protein:
+      count: 29
+      provided_by:
+        unknown:
+          count: 29
+    biolink:NamedThing-biolink:precedes-biolink:CellularComponent:
+      count: 22
+      provided_by:
+        unknown:
+          count: 22
+    biolink:NamedThing-biolink:precedes-biolink:Gene:
+      count: 2
+      provided_by:
+        unknown:
+          count: 2
+    biolink:NamedThing-biolink:precedes-biolink:NamedThing:
+      count: 511
+      provided_by:
+        unknown:
+          count: 511
+    biolink:NamedThing-biolink:precedes-biolink:OntologyClass:
+      count: 8
+      provided_by:
+        unknown:
+          count: 8
+    biolink:NamedThing-biolink:precedes-biolink:Protein:
+      count: 6
+      provided_by:
+        unknown:
+          count: 6
+    biolink:NamedThing-biolink:regulates-biolink:NamedThing:
+      count: 3
+      provided_by:
+        unknown:
+          count: 3
+    biolink:NamedThing-biolink:related_to-biolink:Cell:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:NamedThing-biolink:related_to-biolink:CellularComponent:
+      count: 36
+      provided_by:
+        unknown:
+          count: 36
+    biolink:NamedThing-biolink:related_to-biolink:Gene:
+      count: 35
+      provided_by:
+        unknown:
+          count: 35
+    biolink:NamedThing-biolink:related_to-biolink:MolecularActivity:
+      count: 2
+      provided_by:
+        unknown:
+          count: 2
+    biolink:NamedThing-biolink:related_to-biolink:NamedThing:
+      count: 2117
+      provided_by:
+        unknown:
+          count: 2117
+    biolink:NamedThing-biolink:related_to-biolink:OntologyClass:
+      count: 21
+      provided_by:
+        unknown:
+          count: 21
+    biolink:NamedThing-biolink:related_to-biolink:Protein:
+      count: 53
+      provided_by:
+        unknown:
+          count: 53
+    biolink:NamedThing-biolink:subclass_of-biolink:AnatomicalEntity:
+      count: 11
+      provided_by:
+        unknown:
+          count: 11
+    biolink:NamedThing-biolink:subclass_of-biolink:Cell:
+      count: 61
+      provided_by:
+        unknown:
+          count: 61
+    biolink:NamedThing-biolink:subclass_of-biolink:CellularComponent:
+      count: 65
+      provided_by:
+        unknown:
+          count: 65
+    biolink:NamedThing-biolink:subclass_of-biolink:ChemicalSubstance:
+      count: 8
+      provided_by:
+        unknown:
+          count: 8
+    biolink:NamedThing-biolink:subclass_of-biolink:MolecularActivity:
+      count: 6
+      provided_by:
+        unknown:
+          count: 6
+    biolink:NamedThing-biolink:subclass_of-biolink:NamedThing:
+      count: 17
+      provided_by:
+        unknown:
+          count: 17
+    biolink:NamedThing-biolink:subclass_of-biolink:OntologyClass:
+      count: 79
+      provided_by:
+        unknown:
+          count: 79
+    biolink:NamedThing-biolink:subclass_of-biolink:Protein:
+      count: 5
+      provided_by:
+        unknown:
+          count: 5
+    biolink:NamedThing-biolink:temporally_related_to-biolink:NamedThing:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:OntologyClass-None-biolink:NamedThing:
+      count: 6
+      provided_by:
+        unknown:
+          count: 6
+    biolink:OntologyClass-None-biolink:OntologyClass:
+      count: 441
+      provided_by:
+        unknown:
+          count: 441
+    biolink:OntologyClass-biolink:actively_involved_in-biolink:BiologicalProcess:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:OntologyClass-biolink:actively_involved_in-biolink:OntologyClass:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:OntologyClass-biolink:affects-biolink:AnatomicalEntity:
+      count: 5
+      provided_by:
+        unknown:
+          count: 5
+    biolink:OntologyClass-biolink:affects-biolink:Cell:
+      count: 54
+      provided_by:
+        unknown:
+          count: 54
+    biolink:OntologyClass-biolink:affects-biolink:CellularComponent:
+      count: 56
+      provided_by:
+        unknown:
+          count: 56
+    biolink:OntologyClass-biolink:affects-biolink:NamedThing:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:OntologyClass-biolink:affects-biolink:OntologyClass:
+      count: 57
+      provided_by:
+        unknown:
+          count: 57
+    biolink:OntologyClass-biolink:affects_localization_of-biolink:CellularComponent:
+      count: 4
+      provided_by:
+        unknown:
+          count: 4
+    biolink:OntologyClass-biolink:affects_localization_of-biolink:OntologyClass:
+      count: 4
+      provided_by:
+        unknown:
+          count: 4
+    biolink:OntologyClass-biolink:affects_transport_of-biolink:AnatomicalEntity:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:OntologyClass-biolink:affects_transport_of-biolink:BiologicalProcess:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:OntologyClass-biolink:affects_transport_of-biolink:Cell:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:OntologyClass-biolink:affects_transport_of-biolink:CellularComponent:
+      count: 18
+      provided_by:
+        unknown:
+          count: 18
+    biolink:OntologyClass-biolink:affects_transport_of-biolink:ChemicalSubstance:
+      count: 341
+      provided_by:
+        unknown:
+          count: 341
+    biolink:OntologyClass-biolink:affects_transport_of-biolink:Drug:
+      count: 21
+      provided_by:
+        unknown:
+          count: 21
+    biolink:OntologyClass-biolink:affects_transport_of-biolink:NamedThing:
+      count: 4
+      provided_by:
+        unknown:
+          count: 4
+    biolink:OntologyClass-biolink:affects_transport_of-biolink:OntologyClass:
+      count: 41
+      provided_by:
+        unknown:
+          count: 41
+    biolink:OntologyClass-biolink:affects_transport_of-biolink:Protein:
+      count: 7
+      provided_by:
+        unknown:
+          count: 7
+    biolink:OntologyClass-biolink:affects_transport_of-biolink:SequenceFeature:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:OntologyClass-biolink:capable_of-biolink:BiologicalProcess:
+      count: 9
+      provided_by:
+        unknown:
+          count: 9
+    biolink:OntologyClass-biolink:capable_of-biolink:MolecularActivity:
+      count: 78
+      provided_by:
+        unknown:
+          count: 78
+    biolink:OntologyClass-biolink:capable_of-biolink:OntologyClass:
+      count: 72
+      provided_by:
+        unknown:
+          count: 72
+    biolink:OntologyClass-biolink:caused_by-biolink:AnatomicalEntity:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:OntologyClass-biolink:caused_by-biolink:Cell:
+      count: 10
+      provided_by:
+        unknown:
+          count: 10
+    biolink:OntologyClass-biolink:caused_by-biolink:CellularComponent:
+      count: 7
+      provided_by:
+        unknown:
+          count: 7
+    biolink:OntologyClass-biolink:caused_by-biolink:ChemicalSubstance:
+      count: 3
+      provided_by:
+        unknown:
+          count: 3
+    biolink:OntologyClass-biolink:caused_by-biolink:OntologyClass:
+      count: 9
+      provided_by:
+        unknown:
+          count: 9
+    biolink:OntologyClass-biolink:caused_by-biolink:OrganismalEntity:
+      count: 4
+      provided_by:
+        unknown:
+          count: 4
+    biolink:OntologyClass-biolink:caused_by-biolink:Protein:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:OntologyClass-biolink:causes-biolink:AnatomicalEntity:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:OntologyClass-biolink:causes-biolink:Cell:
+      count: 93
+      provided_by:
+        unknown:
+          count: 93
+    biolink:OntologyClass-biolink:causes-biolink:OntologyClass:
+      count: 18
+      provided_by:
+        unknown:
+          count: 18
+    biolink:OntologyClass-biolink:causes-biolink:OrganismalEntity:
+      count: 3
+      provided_by:
+        unknown:
+          count: 3
+    biolink:OntologyClass-biolink:coexists_with-biolink:CellularComponent:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:OntologyClass-biolink:coexists_with-biolink:OntologyClass:
+      count: 20
+      provided_by:
+        unknown:
+          count: 20
+    biolink:OntologyClass-biolink:derives_from-biolink:AnatomicalEntity:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:OntologyClass-biolink:derives_from-biolink:ChemicalSubstance:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:OntologyClass-biolink:derives_from-biolink:OntologyClass:
+      count: 20
+      provided_by:
+        unknown:
+          count: 20
+    biolink:OntologyClass-biolink:develops_from-biolink:OntologyClass:
+      count: 62
+      provided_by:
+        unknown:
+          count: 62
+    biolink:OntologyClass-biolink:enabled_by-biolink:Gene:
+      count: 2
+      provided_by:
+        unknown:
+          count: 2
+    biolink:OntologyClass-biolink:enabled_by-biolink:MolecularActivity:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:OntologyClass-biolink:enabled_by-biolink:NamedThing:
+      count: 10
+      provided_by:
+        unknown:
+          count: 10
+    biolink:OntologyClass-biolink:enabled_by-biolink:OntologyClass:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:OntologyClass-biolink:enabled_by-biolink:Protein:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:OntologyClass-biolink:has_attribute-biolink:ChemicalSubstance:
+      count: 5
+      provided_by:
+        unknown:
+          count: 5
+    biolink:OntologyClass-biolink:has_attribute-biolink:NamedThing:
+      count: 3
+      provided_by:
+        unknown:
+          count: 3
+    biolink:OntologyClass-biolink:has_attribute-biolink:OntologyClass:
+      count: 44
+      provided_by:
+        unknown:
+          count: 44
+    biolink:OntologyClass-biolink:has_input-biolink:AnatomicalEntity:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:OntologyClass-biolink:has_input-biolink:Cell:
+      count: 43
+      provided_by:
+        unknown:
+          count: 43
+    biolink:OntologyClass-biolink:has_input-biolink:CellularComponent:
+      count: 53
+      provided_by:
+        unknown:
+          count: 53
+    biolink:OntologyClass-biolink:has_input-biolink:ChemicalSubstance:
+      count: 574
+      provided_by:
+        unknown:
+          count: 574
+    biolink:OntologyClass-biolink:has_input-biolink:Drug:
+      count: 45
+      provided_by:
+        unknown:
+          count: 45
+    biolink:OntologyClass-biolink:has_input-biolink:NamedThing:
+      count: 8
+      provided_by:
+        unknown:
+          count: 8
+    biolink:OntologyClass-biolink:has_input-biolink:OntologyClass:
+      count: 99
+      provided_by:
+        unknown:
+          count: 99
+    biolink:OntologyClass-biolink:has_input-biolink:OrganismalEntity:
+      count: 6
+      provided_by:
+        unknown:
+          count: 6
+    biolink:OntologyClass-biolink:has_input-biolink:Protein:
+      count: 156
+      provided_by:
+        unknown:
+          count: 156
+    biolink:OntologyClass-biolink:has_input-biolink:SequenceFeature:
+      count: 14
+      provided_by:
+        unknown:
+          count: 14
+    biolink:OntologyClass-biolink:has_output-biolink:AnatomicalEntity:
+      count: 233
+      provided_by:
+        unknown:
+          count: 233
+    biolink:OntologyClass-biolink:has_output-biolink:BiologicalProcess:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:OntologyClass-biolink:has_output-biolink:Cell:
+      count: 46
+      provided_by:
+        unknown:
+          count: 46
+    biolink:OntologyClass-biolink:has_output-biolink:CellularComponent:
+      count: 115
+      provided_by:
+        unknown:
+          count: 115
+    biolink:OntologyClass-biolink:has_output-biolink:ChemicalSubstance:
+      count: 493
+      provided_by:
+        unknown:
+          count: 493
+    biolink:OntologyClass-biolink:has_output-biolink:Drug:
+      count: 18
+      provided_by:
+        unknown:
+          count: 18
+    biolink:OntologyClass-biolink:has_output-biolink:NamedThing:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:OntologyClass-biolink:has_output-biolink:OntologyClass:
+      count: 182
+      provided_by:
+        unknown:
+          count: 182
+    biolink:OntologyClass-biolink:has_output-biolink:Protein:
+      count: 5
+      provided_by:
+        unknown:
+          count: 5
+    biolink:OntologyClass-biolink:has_output-biolink:SequenceFeature:
+      count: 8
+      provided_by:
+        unknown:
+          count: 8
+    biolink:OntologyClass-biolink:has_part-biolink:BiologicalProcess:
+      count: 73
+      provided_by:
+        unknown:
+          count: 73
+    biolink:OntologyClass-biolink:has_part-biolink:CellularComponent:
+      count: 40
+      provided_by:
+        unknown:
+          count: 40
+    biolink:OntologyClass-biolink:has_part-biolink:ChemicalSubstance:
+      count: 15
+      provided_by:
+        unknown:
+          count: 15
+    biolink:OntologyClass-biolink:has_part-biolink:Drug:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:OntologyClass-biolink:has_part-biolink:MolecularActivity:
+      count: 133
+      provided_by:
+        unknown:
+          count: 133
+    biolink:OntologyClass-biolink:has_part-biolink:NamedThing:
+      count: 4
+      provided_by:
+        unknown:
+          count: 4
+    biolink:OntologyClass-biolink:has_part-biolink:OntologyClass:
+      count: 233
+      provided_by:
+        unknown:
+          count: 233
+    biolink:OntologyClass-biolink:has_part-biolink:Protein:
+      count: 2
+      provided_by:
+        unknown:
+          count: 2
+    biolink:OntologyClass-biolink:has_participant-biolink:AnatomicalEntity:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:OntologyClass-biolink:has_participant-biolink:Cell:
+      count: 14
+      provided_by:
+        unknown:
+          count: 14
+    biolink:OntologyClass-biolink:has_participant-biolink:CellularComponent:
+      count: 16
+      provided_by:
+        unknown:
+          count: 16
+    biolink:OntologyClass-biolink:has_participant-biolink:ChemicalSubstance:
+      count: 373
+      provided_by:
+        unknown:
+          count: 373
+    biolink:OntologyClass-biolink:has_participant-biolink:Drug:
+      count: 11
+      provided_by:
+        unknown:
+          count: 11
+    biolink:OntologyClass-biolink:has_participant-biolink:NamedThing:
+      count: 3
+      provided_by:
+        unknown:
+          count: 3
+    biolink:OntologyClass-biolink:has_participant-biolink:OntologyClass:
+      count: 53
+      provided_by:
+        unknown:
+          count: 53
+    biolink:OntologyClass-biolink:has_participant-biolink:Protein:
+      count: 5
+      provided_by:
+        unknown:
+          count: 5
+    biolink:OntologyClass-biolink:has_participant-biolink:SequenceFeature:
+      count: 5
+      provided_by:
+        unknown:
+          count: 5
+    biolink:OntologyClass-biolink:in_taxon-biolink:OntologyClass:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:OntologyClass-biolink:in_taxon-biolink:OrganismalEntity:
+      count: 530
+      provided_by:
+        unknown:
+          count: 530
+    biolink:OntologyClass-biolink:increases_degradation_of-biolink:CellularComponent:
+      count: 4
+      provided_by:
+        unknown:
+          count: 4
+    biolink:OntologyClass-biolink:increases_degradation_of-biolink:OntologyClass:
+      count: 4
+      provided_by:
+        unknown:
+          count: 4
+    biolink:OntologyClass-biolink:interacts_with-biolink:OntologyClass:
+      count: 3360
+      provided_by:
+        ChEMBL SARS-CoV-2 subset:
+          count: 3303
+        zhou_host_proteins:
+          count: 57
+    biolink:OntologyClass-biolink:interacts_with-biolink:OrganismTaxon:
+      count: 3303
+      provided_by:
+        ChEMBL SARS-CoV-2 subset:
+          count: 3303
+    biolink:OntologyClass-biolink:interacts_with-biolink:OrganismalEntity:
+      count: 3423
+      provided_by:
+        ChEMBL SARS-CoV-2 subset:
+          count: 3303
+        zhou_host_proteins:
+          count: 120
+    biolink:OntologyClass-biolink:interacts_with-unknown:
+      count: 473
+      provided_by:
+        ChEMBL SARS-CoV-2 subset:
+          count: 473
+    biolink:OntologyClass-biolink:located_in-biolink:OntologyClass:
+      count: 8
+      provided_by:
+        unknown:
+          count: 8
+    biolink:OntologyClass-biolink:model_of-biolink:OntologyClass:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:OntologyClass-biolink:negatively_regulates-biolink:BiologicalProcess:
+      count: 569
+      provided_by:
+        unknown:
+          count: 569
+    biolink:OntologyClass-biolink:negatively_regulates-biolink:MolecularActivity:
+      count: 97
+      provided_by:
+        unknown:
+          count: 97
+    biolink:OntologyClass-biolink:negatively_regulates-biolink:NamedThing:
+      count: 8
+      provided_by:
+        unknown:
+          count: 8
+    biolink:OntologyClass-biolink:negatively_regulates-biolink:OntologyClass:
+      count: 670
+      provided_by:
+        unknown:
+          count: 670
+    biolink:OntologyClass-biolink:negatively_regulates-biolink:Protein:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:OntologyClass-biolink:occurs_in-biolink:AnatomicalEntity:
+      count: 23
+      provided_by:
+        unknown:
+          count: 23
+    biolink:OntologyClass-biolink:occurs_in-biolink:Cell:
+      count: 51
+      provided_by:
+        unknown:
+          count: 51
+    biolink:OntologyClass-biolink:occurs_in-biolink:CellularComponent:
+      count: 80
+      provided_by:
+        unknown:
+          count: 80
+    biolink:OntologyClass-biolink:occurs_in-biolink:OntologyClass:
+      count: 85
+      provided_by:
+        unknown:
+          count: 85
+    biolink:OntologyClass-biolink:overlaps-biolink:Cell:
+      count: 2
+      provided_by:
+        unknown:
+          count: 2
+    biolink:OntologyClass-biolink:overlaps-biolink:CellularComponent:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:OntologyClass-biolink:overlaps-biolink:OntologyClass:
+      count: 12
+      provided_by:
+        unknown:
+          count: 12
+    biolink:OntologyClass-biolink:part_of-biolink:BiologicalProcess:
+      count: 1353
+      provided_by:
+        unknown:
+          count: 1353
+    biolink:OntologyClass-biolink:part_of-biolink:Cell:
+      count: 74
+      provided_by:
+        unknown:
+          count: 74
+    biolink:OntologyClass-biolink:part_of-biolink:CellularComponent:
+      count: 654
+      provided_by:
+        unknown:
+          count: 654
+    biolink:OntologyClass-biolink:part_of-biolink:MolecularActivity:
+      count: 5
+      provided_by:
+        unknown:
+          count: 5
+    biolink:OntologyClass-biolink:part_of-biolink:NamedThing:
+      count: 3
+      provided_by:
+        unknown:
+          count: 3
+    biolink:OntologyClass-biolink:part_of-biolink:OntologyClass:
+      count: 2212
+      provided_by:
+        unknown:
+          count: 2212
+    biolink:OntologyClass-biolink:participates_in-biolink:BiologicalProcess:
+      count: 39
+      provided_by:
+        unknown:
+          count: 39
+    biolink:OntologyClass-biolink:participates_in-biolink:Cell:
+      count: 32
+      provided_by:
+        unknown:
+          count: 32
+    biolink:OntologyClass-biolink:participates_in-biolink:CellularComponent:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:OntologyClass-biolink:participates_in-biolink:ChemicalSubstance:
+      count: 8
+      provided_by:
+        unknown:
+          count: 8
+    biolink:OntologyClass-biolink:participates_in-biolink:OntologyClass:
+      count: 35
+      provided_by:
+        unknown:
+          count: 35
+    biolink:OntologyClass-biolink:positively_regulates-biolink:BiologicalProcess:
+      count: 547
+      provided_by:
+        unknown:
+          count: 547
+    biolink:OntologyClass-biolink:positively_regulates-biolink:CellularComponent:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:OntologyClass-biolink:positively_regulates-biolink:MolecularActivity:
+      count: 83
+      provided_by:
+        unknown:
+          count: 83
+    biolink:OntologyClass-biolink:positively_regulates-biolink:NamedThing:
+      count: 5
+      provided_by:
+        unknown:
+          count: 5
+    biolink:OntologyClass-biolink:positively_regulates-biolink:OntologyClass:
+      count: 629
+      provided_by:
+        unknown:
+          count: 629
+    biolink:OntologyClass-biolink:positively_regulates-biolink:Protein:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:OntologyClass-biolink:preceded_by-biolink:OntologyClass:
+      count: 54
+      provided_by:
+        unknown:
+          count: 54
+    biolink:OntologyClass-biolink:precedes-biolink:BiologicalProcess:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:OntologyClass-biolink:precedes-biolink:CellularComponent:
+      count: 8
+      provided_by:
+        unknown:
+          count: 8
+    biolink:OntologyClass-biolink:precedes-biolink:NamedThing:
+      count: 9
+      provided_by:
+        unknown:
+          count: 9
+    biolink:OntologyClass-biolink:precedes-biolink:OntologyClass:
+      count: 3
+      provided_by:
+        unknown:
+          count: 3
+    biolink:OntologyClass-biolink:precedes-biolink:Protein:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:OntologyClass-biolink:regulates-biolink:AnatomicalEntity:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:OntologyClass-biolink:regulates-biolink:BiologicalProcess:
+      count: 703
+      provided_by:
+        unknown:
+          count: 703
+    biolink:OntologyClass-biolink:regulates-biolink:MolecularActivity:
+      count: 101
+      provided_by:
+        unknown:
+          count: 101
+    biolink:OntologyClass-biolink:regulates-biolink:NamedThing:
+      count: 3
+      provided_by:
+        unknown:
+          count: 3
+    biolink:OntologyClass-biolink:regulates-biolink:OntologyClass:
+      count: 829
+      provided_by:
+        unknown:
+          count: 829
+    biolink:OntologyClass-biolink:related_to-biolink:AnatomicalEntity:
+      count: 5
+      provided_by:
+        unknown:
+          count: 5
+    biolink:OntologyClass-biolink:related_to-biolink:BiologicalProcess:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:OntologyClass-biolink:related_to-biolink:Cell:
+      count: 6
+      provided_by:
+        unknown:
+          count: 6
+    biolink:OntologyClass-biolink:related_to-biolink:CellularComponent:
+      count: 76
+      provided_by:
+        unknown:
+          count: 76
+    biolink:OntologyClass-biolink:related_to-biolink:ChemicalSubstance:
+      count: 159
+      provided_by:
+        unknown:
+          count: 159
+    biolink:OntologyClass-biolink:related_to-biolink:Drug:
+      count: 2
+      provided_by:
+        unknown:
+          count: 2
+    biolink:OntologyClass-biolink:related_to-biolink:Gene:
+      count: 2
+      provided_by:
+        unknown:
+          count: 2
+    biolink:OntologyClass-biolink:related_to-biolink:MolecularActivity:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:OntologyClass-biolink:related_to-biolink:NamedThing:
+      count: 21
+      provided_by:
+        unknown:
+          count: 21
+    biolink:OntologyClass-biolink:related_to-biolink:OntologyClass:
+      count: 271
+      provided_by:
+        unknown:
+          count: 271
+    biolink:OntologyClass-biolink:related_to-biolink:OrganismalEntity:
+      count: 4
+      provided_by:
+        unknown:
+          count: 4
+    biolink:OntologyClass-biolink:related_to-biolink:SequenceFeature:
+      count: 2
+      provided_by:
+        unknown:
+          count: 2
+    biolink:OntologyClass-biolink:subclass_of-biolink:AnatomicalEntity:
+      count: 8
+      provided_by:
+        unknown:
+          count: 8
+    biolink:OntologyClass-biolink:subclass_of-biolink:BiologicalProcess:
+      count: 12905
+      provided_by:
+        unknown:
+          count: 12905
+    biolink:OntologyClass-biolink:subclass_of-biolink:CellularComponent:
+      count: 1850
+      provided_by:
+        unknown:
+          count: 1850
+    biolink:OntologyClass-biolink:subclass_of-biolink:ChemicalSubstance:
+      count: 4
+      provided_by:
+        unknown:
+          count: 4
+    biolink:OntologyClass-biolink:subclass_of-biolink:MolecularActivity:
+      count: 3968
+      provided_by:
+        unknown:
+          count: 3968
+    biolink:OntologyClass-biolink:subclass_of-biolink:NamedThing:
+      count: 179
+      provided_by:
+        unknown:
+          count: 179
+    biolink:OntologyClass-biolink:subclass_of-biolink:OntologyClass:
+      count: 22713
+      provided_by:
+        unknown:
+          count: 22713
+    biolink:OntologyClass-biolink:subclass_of-biolink:OrganismalEntity:
+      count: 6
+      provided_by:
+        unknown:
+          count: 6
+    biolink:OntologyClass-biolink:subclass_of-biolink:PhenotypicFeature:
+      count: 6720
+      provided_by:
+        unknown:
+          count: 6720
+    biolink:OntologyClass-biolink:subclass_of-biolink:SequenceFeature:
+      count: 3791
+      provided_by:
+        unknown:
+          count: 3791
+    biolink:OntologyClass-biolink:temporally_related_to-biolink:BiologicalProcess:
+      count: 28
+      provided_by:
+        unknown:
+          count: 28
+    biolink:OntologyClass-biolink:temporally_related_to-biolink:MolecularActivity:
+      count: 20
+      provided_by:
+        unknown:
+          count: 20
+    biolink:OntologyClass-biolink:temporally_related_to-biolink:OntologyClass:
+      count: 34
+      provided_by:
+        unknown:
+          count: 34
+    biolink:OntologyClass-biolink:type-biolink:NamedThing:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:OntologyClass-biolink:type-biolink:OntologyClass:
+      count: 18
+      provided_by:
+        unknown:
+          count: 18
+    biolink:OrganismTaxon-biolink:subclass_of-biolink:OntologyClass:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:OrganismTaxon-biolink:subclass_of-biolink:OrganismalEntity:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:OrganismalEntity-biolink:in_taxon-biolink:OrganismalEntity:
+      count: 1008
+      provided_by:
+        unknown:
+          count: 1008
+    biolink:OrganismalEntity-biolink:subclass_of-biolink:NamedThing:
+      count: 6
+      provided_by:
+        unknown:
+          count: 6
+    biolink:OrganismalEntity-biolink:subclass_of-biolink:OntologyClass:
+      count: 11
+      provided_by:
+        unknown:
+          count: 11
+    biolink:OrganismalEntity-biolink:subclass_of-biolink:OrganismalEntity:
+      count: 2088
+      provided_by:
+        unknown:
+          count: 2088
+    biolink:PhenotypicFeature-biolink:subclass_of-biolink:OntologyClass:
+      count: 9080
+      provided_by:
+        unknown:
+          count: 9080
+    biolink:PhenotypicFeature-biolink:subclass_of-biolink:PhenotypicFeature:
+      count: 20532
+      provided_by:
+        unknown:
+          count: 20532
+    biolink:Protein-None-biolink:Gene:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:Protein-None-biolink:NamedThing:
+      count: 6
+      provided_by:
+        unknown:
+          count: 6
+    biolink:Protein-None-biolink:Protein:
+      count: 3
+      provided_by:
+        unknown:
+          count: 3
+    biolink:Protein-biolink:capable_of-biolink:MolecularActivity:
+      count: 2
+      provided_by:
+        unknown:
+          count: 2
+    biolink:Protein-biolink:capable_of-biolink:OntologyClass:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:Protein-biolink:derives_from-biolink:ChemicalSubstance:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:Protein-biolink:enabled_by-biolink:NamedThing:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:Protein-biolink:enabled_by-biolink:Protein:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:Protein-biolink:enables-biolink:MolecularActivity:
+      count: 17949
+      provided_by:
+        sars_cov_2_gene_annot:
+          count: 17949
+    biolink:Protein-biolink:enables-biolink:OntologyClass:
+      count: 17949
+      provided_by:
+        sars_cov_2_gene_annot:
+          count: 17949
+    biolink:Protein-biolink:has_gene_product-biolink:Protein:
+      count: 3
+      provided_by:
+        NCBI:
+          count: 3
+    biolink:Protein-biolink:has_input-biolink:NamedThing:
+      count: 3
+      provided_by:
+        unknown:
+          count: 3
+    biolink:Protein-biolink:has_input-biolink:Protein:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:Protein-biolink:has_output-biolink:BiologicalProcess:
+      count: 57
+      provided_by:
+        unknown:
+          count: 57
+    biolink:Protein-biolink:has_output-biolink:OntologyClass:
+      count: 57
+      provided_by:
+        unknown:
+          count: 57
+    biolink:Protein-biolink:has_part-biolink:NamedThing:
+      count: 3
+      provided_by:
+        unknown:
+          count: 3
+    biolink:Protein-biolink:has_part-biolink:Protein:
+      count: 3
+      provided_by:
+        unknown:
+          count: 3
+    biolink:Protein-biolink:in_taxon-biolink:OrganismalEntity:
+      count: 2
+      provided_by:
+        unknown:
+          count: 2
+    biolink:Protein-biolink:interacts_with-biolink:ChemicalSubstance:
+      count: 62
+      provided_by:
+        intact:
+          count: 62
+    biolink:Protein-biolink:interacts_with-biolink:Drug:
+      count: 74
+      provided_by:
+        intact:
+          count: 74
+    biolink:Protein-biolink:interacts_with-biolink:Gene:
+      count: 63
+      provided_by:
+        intact:
+          count: 63
+    biolink:Protein-biolink:interacts_with-biolink:NamedThing:
+      count: 189
+      provided_by:
+        intact:
+          count: 189
+    biolink:Protein-biolink:interacts_with-biolink:Protein:
+      count: 11761207
+      provided_by:
+        STRING:
+          count: 11759454
+        intact:
+          count: 1753
+    biolink:Protein-biolink:interacts_with-biolink:RNA:
+      count: 49
+      provided_by:
+        intact:
+          count: 49
+    biolink:Protein-biolink:involved_in-biolink:BiologicalProcess:
+      count: 17131
+      provided_by:
+        sars_cov_2_gene_annot:
+          count: 17131
+    biolink:Protein-biolink:involved_in-biolink:OntologyClass:
+      count: 17131
+      provided_by:
+        sars_cov_2_gene_annot:
+          count: 17131
+    biolink:Protein-biolink:negatively_regulates-biolink:NamedThing:
+      count: 15
+      provided_by:
+        unknown:
+          count: 15
+    biolink:Protein-biolink:negatively_regulates-biolink:Protein:
+      count: 5
+      provided_by:
+        unknown:
+          count: 5
+    biolink:Protein-biolink:part_of-biolink:CellularComponent:
+      count: 10596
+      provided_by:
+        sars_cov_2_gene_annot:
+          count: 10593
+        unknown:
+          count: 3
+    biolink:Protein-biolink:part_of-biolink:Gene:
+      count: 3
+      provided_by:
+        unknown:
+          count: 3
+    biolink:Protein-biolink:part_of-biolink:NamedThing:
+      count: 11
+      provided_by:
+        unknown:
+          count: 11
+    biolink:Protein-biolink:part_of-biolink:OntologyClass:
+      count: 11070
+      provided_by:
+        sars_cov_2_gene_annot:
+          count: 11070
+    biolink:Protein-biolink:part_of-biolink:Protein:
+      count: 8
+      provided_by:
+        unknown:
+          count: 8
+    biolink:Protein-biolink:positively_regulates-biolink:Gene:
+      count: 4
+      provided_by:
+        unknown:
+          count: 4
+    biolink:Protein-biolink:positively_regulates-biolink:NamedThing:
+      count: 23
+      provided_by:
+        unknown:
+          count: 23
+    biolink:Protein-biolink:positively_regulates-biolink:Protein:
+      count: 15
+      provided_by:
+        unknown:
+          count: 15
+    biolink:Protein-biolink:precedes-biolink:CellularComponent:
+      count: 3
+      provided_by:
+        unknown:
+          count: 3
+    biolink:Protein-biolink:precedes-biolink:Gene:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:Protein-biolink:precedes-biolink:NamedThing:
+      count: 10
+      provided_by:
+        unknown:
+          count: 10
+    biolink:Protein-biolink:precedes-biolink:OntologyClass:
+      count: 2
+      provided_by:
+        unknown:
+          count: 2
+    biolink:Protein-biolink:precedes-biolink:Protein:
+      count: 2
+      provided_by:
+        unknown:
+          count: 2
+    biolink:Protein-biolink:related_to-biolink:CellularComponent:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:Protein-biolink:related_to-biolink:Gene:
+      count: 13
+      provided_by:
+        unknown:
+          count: 13
+    biolink:Protein-biolink:related_to-biolink:MolecularActivity:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:Protein-biolink:related_to-biolink:NamedThing:
+      count: 50
+      provided_by:
+        unknown:
+          count: 50
+    biolink:Protein-biolink:related_to-biolink:OntologyClass:
+      count: 2
+      provided_by:
+        unknown:
+          count: 2
+    biolink:Protein-biolink:related_to-biolink:Protein:
+      count: 22
+      provided_by:
+        unknown:
+          count: 22
+    biolink:Protein-biolink:subclass_of-biolink:CellularComponent:
+      count: 1
+      provided_by:
+        unknown:
+          count: 1
+    biolink:Protein-biolink:subclass_of-biolink:ChemicalSubstance:
+      count: 179
+      provided_by:
+        unknown:
+          count: 179
+    biolink:Protein-biolink:subclass_of-biolink:NamedThing:
+      count: 198
+      provided_by:
+        unknown:
+          count: 198
+    biolink:Protein-biolink:subclass_of-biolink:OntologyClass:
+      count: 2
+      provided_by:
+        unknown:
+          count: 2
+    biolink:Protein-biolink:subclass_of-biolink:Protein:
+      count: 470
+      provided_by:
+        unknown:
+          count: 470
+    biolink:Publication-biolink:mentions-biolink:BiologicalProcess:
+      count: 1395309
+      provided_by:
+        SciBite-CORD-19:
+          count: 1395309
+    biolink:Publication-biolink:mentions-biolink:CellularComponent:
+      count: 405264
+      provided_by:
+        SciBite-CORD-19:
+          count: 405264
+    biolink:Publication-biolink:mentions-biolink:Drug:
+      count: 413937
+      provided_by:
+        SciBite-CORD-19:
+          count: 413937
+    biolink:Publication-biolink:mentions-biolink:Gene:
+      count: 54367
+      provided_by:
+        SciBite-CORD-19:
+          count: 54367
+    biolink:Publication-biolink:mentions-biolink:MolecularActivity:
+      count: 519568
+      provided_by:
+        SciBite-CORD-19:
+          count: 519568
+    biolink:Publication-biolink:mentions-biolink:NamedThing:
+      count: 623741
+      provided_by:
+        SciBite-CORD-19:
+          count: 623741
+    biolink:Publication-biolink:mentions-biolink:OntologyClass:
+      count: 11103183
+      provided_by:
+        SciBite-CORD-19:
+          count: 11103183
+    biolink:Publication-biolink:mentions-biolink:OrganismTaxon:
+      count: 84104
+      provided_by:
+        SciBite-CORD-19:
+          count: 84104
+    biolink:Publication-biolink:mentions-biolink:OrganismalEntity:
+      count: 119304
+      provided_by:
+        SciBite-CORD-19:
+          count: 119304
+    biolink:Publication-biolink:mentions-biolink:PhenotypicFeature:
+      count: 1482739
+      provided_by:
+        SciBite-CORD-19:
+          count: 1482739
+    biolink:RNA-biolink:interacts_with-biolink:ChemicalSubstance:
+      count: 5
+      provided_by:
+        intact:
+          count: 5
+    biolink:RNA-biolink:interacts_with-biolink:Drug:
+      count: 5
+      provided_by:
+        intact:
+          count: 5
+    biolink:RNA-biolink:interacts_with-biolink:Gene:
+      count: 1
+      provided_by:
+        intact:
+          count: 1
+    biolink:RNA-biolink:interacts_with-biolink:NamedThing:
+      count: 36
+      provided_by:
+        intact:
+          count: 36
+    biolink:RNA-biolink:interacts_with-biolink:Protein:
+      count: 68
+      provided_by:
+        intact:
+          count: 68
+    biolink:RNA-biolink:interacts_with-biolink:RNA:
+      count: 15
+      provided_by:
+        intact:
+          count: 15
+    biolink:SequenceFeature-biolink:subclass_of-biolink:ChemicalSubstance:
+      count: 5
+      provided_by:
+        unknown:
+          count: 5
+    biolink:SequenceFeature-biolink:subclass_of-biolink:SequenceFeature:
+      count: 180
+      provided_by:
+        unknown:
+          count: 180
+  predicates:
+  - biolink:actively_involved_in
+  - biolink:affects
+  - biolink:affects_localization_of
+  - biolink:affects_transport_of
+  - biolink:associated_with
+  - biolink:capable_of
+  - biolink:caused_by
+  - biolink:causes
+  - biolink:coexists_with
+  - biolink:derives_from
+  - biolink:develops_from
+  - biolink:disrupts
+  - biolink:enabled_by
+  - biolink:enables
+  - biolink:has_attribute
+  - biolink:has_gene_product
+  - biolink:has_input
+  - biolink:has_output
+  - biolink:has_part
+  - biolink:has_participant
+  - biolink:has_phenotype
+  - biolink:homologous_to
+  - biolink:in_taxon
+  - biolink:increases_degradation_of
+  - biolink:interacts_with
+  - biolink:involved_in
+  - biolink:located_in
+  - biolink:location_of
+  - biolink:mentions
+  - biolink:model_of
+  - biolink:molecularly_interacts_with
+  - biolink:negatively_regulates
+  - biolink:occurs_in
+  - biolink:overlaps
+  - biolink:part_of
+  - biolink:participates_in
+  - biolink:positively_regulates
+  - biolink:preceded_by
+  - biolink:precedes
+  - biolink:produced_by
+  - biolink:produces
+  - biolink:regulates
+  - biolink:related_to
+  - biolink:subclass_of
+  - biolink:temporally_related_to
+  - biolink:type
+  provided_by:
+  - ChEMBL SARS-CoV-2 subset
+  - NCBI
+  - STRING
+  - SciBite-CORD-19
+  - drug_central
+  - intact
+  - pharmgkb
+  - sars_cov_2_gene_annot
+  - ttd
+  - unknown
+  - zhou_host_proteins
+  total_edges: 24145194
+graph_name: KG-COVID-19 Graph
+node_stats:
+  count_by_category:
+    biolink:AnatomicalEntity:
+      count: 5521
+      provided_by:
+        Graph:
+          count: 5
+        go-plus.json:
+          count: 4733
+        mondo.json:
+          count: 4871
+    biolink:Assay:
+      count: 57
+      provided_by:
+        ChEMBL SARS-CoV-2 subset:
+          count: 57
+    biolink:BiologicalProcess:
+      count: 30487
+      provided_by:
+        SciBite-CORD-19:
+          count: 5600
+        go-plus.json:
+          count: 30487
+        mondo.json:
+          count: 3147
+        sars_cov_2_gene_annot:
+          count: 58
+    biolink:Cell:
+      count: 1486
+      provided_by:
+        Graph:
+          count: 36
+        go-plus.json:
+          count: 1211
+        mondo.json:
+          count: 1049
+    biolink:CellularComponent:
+      count: 4469
+      provided_by:
+        SciBite-CORD-19:
+          count: 1386
+        go-plus.json:
+          count: 4469
+        lifted-go-cams-20200619.xml:
+          count: 44
+        mondo.json:
+          count: 269
+        sars_cov_2_gene_annot:
+          count: 27
+    biolink:ChemicalSubstance:
+      count: 144760
+      provided_by:
+        Graph:
+          count: 3
+        chebi.json.gz:
+          count: 144649
+        go-plus.json:
+          count: 23548
+        intact:
+          count: 101
+        mondo.json:
+          count: 1085
+        pharmgkb:
+          count: 515
+    biolink:Disease:
+      count: 24874
+      provided_by:
+        mondo.json:
+          count: 24874
+    biolink:Drug:
+      count: 41286
+      provided_by:
+        ChEMBL SARS-CoV-2 subset:
+          count: 8208
+        SciBite-CORD-19:
+          count: 3303
+        chebi.json.gz:
+          count: 611
+        drug_central:
+          count: 2331
+        go-plus.json:
+          count: 152
+        intact:
+          count: 119
+        mondo.json:
+          count: 18
+        pharmgkb:
+          count: 1259
+        ttd:
+          count: 29374
+    biolink:Gene:
+      count: 19479
+      provided_by:
+        STRING:
+          count: 17560
+        SciBite-CORD-19:
+          count: 112
+        drug_central:
+          count: 454
+        intact:
+          count: 232
+        lifted-go-cams-20200619.xml:
+          count: 44
+        pharmgkb:
+          count: 1800
+        ttd:
+          count: 63
+        zhou_host_proteins:
+          count: 119
+    biolink:MolecularActivity:
+      count: 12305
+      provided_by:
+        SciBite-CORD-19:
+          count: 3396
+        go-plus.json:
+          count: 12305
+        lifted-go-cams-20200619.xml:
+          count: 5
+        mondo.json:
+          count: 385
+        sars_cov_2_gene_annot:
+          count: 39
+    biolink:MolecularEntity:
+      count: 3
+      provided_by:
+        intact:
+          count: 3
+    biolink:NamedThing:
+      count: 4012
+      provided_by:
+        Graph:
+          count: 104
+        SciBite-CORD-19:
+          count: 255
+        chebi.json.gz:
+          count: 3
+        drug_central:
+          count: 54
+        go-plus.json:
+          count: 53
+        intact:
+          count: 57
+        lifted-go-cams-20200619.xml:
+          count: 3681
+        mondo.json:
+          count: 90
+        pharmgkb:
+          count: 44
+        sars_cov_2_gene_annot:
+          count: 5
+        ttd:
+          count: 8
+    biolink:OntologyClass:
+      count: 73958
+      provided_by:
+        ChEMBL SARS-CoV-2 subset:
+          count: 3303
+        Graph:
+          count: 38
+        SciBite-CORD-19:
+          count: 62387
+        chebi.json.gz:
+          count: 25
+        go-plus.json:
+          count: 16899
+        hp.json:
+          count: 5718
+        lifted-go-cams-20200619.xml:
+          count: 29
+        mondo.json:
+          count: 10456
+        nodes.tsv:
+          count: 1
+        sars_cov_2_gene_annot:
+          count: 125
+        zhou_host_proteins:
+          count: 113
+    biolink:OrganismTaxon:
+      count: 1
+      provided_by:
+        SciBite-CORD-19:
+          count: 1
+        mondo.json:
+          count: 1
+        nodes.tsv:
+          count: 1
+    biolink:OrganismalEntity:
+      count: 2097
+      provided_by:
+        SciBite-CORD-19:
+          count: 4
+        go-plus.json:
+          count: 1024
+        mondo.json:
+          count: 1422
+        nodes.tsv:
+          count: 1
+        zhou_host_proteins:
+          count: 6
+    biolink:PhenotypicFeature:
+      count: 16601
+      provided_by:
+        SciBite-CORD-19:
+          count: 5711
+        hp.json:
+          count: 16601
+        mondo.json:
+          count: 1196
+    biolink:Protein:
+      count: 27090
+      provided_by:
+        Graph:
+          count: 4
+        STRING:
+          count: 19357
+        drug_central:
+          count: 1701
+        go-plus.json:
+          count: 385
+        intact:
+          count: 3411
+        lifted-go-cams-20200619.xml:
+          count: 97
+        mondo.json:
+          count: 42
+        pharmgkb:
+          count: 625
+        sars_cov_2_gene_annot:
+          count: 2403
+        ttd:
+          count: 219
+    biolink:Publication:
+      count: 190050
+      provided_by:
+        ChEMBL SARS-CoV-2 subset:
+          count: 10
+        SciBite-CORD-19:
+          count: 190040
+    biolink:RNA:
+      count: 85
+      provided_by:
+        intact:
+          count: 85
+    biolink:SequenceFeature:
+      count: 175
+      provided_by:
+        go-plus.json:
+          count: 107
+        mondo.json:
+          count: 85
+    unknown:
+      count: 19
+      provided_by:
+        unknown:
+          count: 19
+  count_by_id_prefixes:
+    BFO: 35
+    BSPO: 26
+    CARO: 10
+    CHEBI: 145394
+    CHEMBL.ASSAY: 57
+    CHEMBL.COMPOUND: 25843
+    CHEMBL.TARGET: 19
+    CHR: 270
+    CL: 1517
+    CORD: 190040
+    ComplexPortal: 11
+    DDANAT: 65
+    DICTYBASE.GENE: 16
+    DRUGBANK: 229
+    DrugCentral: 2331
+    ENSEMBL: 36927
+    ENVO: 387
+    FAO: 33
+    FB: 16
+    FOODON: 181
+    GO: 63211
+    HGNC: 551
+    HP: 22312
+    IAO: 85
+    IDO: 4
+    INTACT: 141
+    MESH: 9725
+    MF: 13
+    MFOMD: 12
+    MOD: 1
+    MONDO: 24874
+    MPATH: 5
+    NBO: 35
+    NCBIGene: 15281
+    NCBIProtein: 2
+    NCBITaxon: 2282
+    NCIT: 77
+    OBA: 126
+    OBI: 14
+    OBO: 430
+    OGMS: 4
+    OIO: 17
+    OPL: 13
+    PATO: 237
+    PCO: 6
+    PHARMGKB: 595
+    PMID: 1
+    PO: 273
+    PR: 471
+    RGD: 25
+    RO: 280
+    SGD: 72
+    SO: 175
+    TAIR.LOCUS: 12
+    TrEMBL: 31
+    UBERON: 5533
+    UPHENO: 1
+    UniProtKB: 9193
+    WB: 171
+    WD: 225
+    XENBASE: 3
+    ZFIN: 58
+    dc: 2
+    dcterms: 1
+    owl: 2
+    rdfs: 1
+    ttd.drug: 29374
+  count_by_id_prefixes_by_category:
+    biolink:AnatomicalEntity:
+      UBERON: 5521
+    biolink:Assay:
+      CHEMBL.ASSAY: 57
+    biolink:BiologicalProcess:
+      GO: 30487
+    biolink:Cell:
+      CL: 1480
+      OBO: 6
+    biolink:CellularComponent:
+      GO: 4469
+    biolink:ChemicalSubstance:
+      CHEBI: 144760
+    biolink:Disease:
+      MONDO: 24874
+    biolink:Drug:
+      CHEBI: 631
+      CHEMBL.COMPOUND: 8208
+      DRUGBANK: 229
+      DrugCentral: 2331
+      PHARMGKB: 513
+      ttd.drug: 29374
+    biolink:Gene:
+      ENSEMBL: 17560
+      NCBIGene: 119
+      PHARMGKB: 82
+      UniProtKB: 1718
+    biolink:MolecularActivity:
+      GO: 12305
+    biolink:MolecularEntity:
+      INTACT: 3
+    biolink:NamedThing:
+      BFO: 1
+      CARO: 1
+      CHEBI: 3
+      CL: 37
+      DICTYBASE.GENE: 16
+      ENVO: 4
+      FB: 16
+      GO: 51
+      IDO: 1
+      MOD: 1
+      NBO: 3
+      OBI: 1
+      OBO: 1
+      OIO: 1
+      PATO: 32
+      PR: 15
+      RGD: 25
+      SGD: 72
+      TAIR.LOCUS: 12
+      UBERON: 12
+      UniProtKB: 261
+      WB: 171
+      WD: 225
+      XENBASE: 3
+      ZFIN: 58
+      owl: 2
+    biolink:OntologyClass:
+      BFO: 34
+      BSPO: 26
+      CARO: 9
+      CHEMBL.COMPOUND: 17635
+      CHR: 270
+      DDANAT: 65
+      ENVO: 383
+      FAO: 33
+      FOODON: 181
+      GO: 15899
+      HGNC: 551
+      HP: 5711
+      IAO: 85
+      IDO: 3
+      MESH: 9725
+      MF: 13
+      MFOMD: 12
+      MPATH: 5
+      NBO: 32
+      NCBIGene: 15162
+      NCBITaxon: 184
+      NCIT: 77
+      OBA: 126
+      OBI: 13
+      OBO: 423
+      OGMS: 4
+      OIO: 16
+      OPL: 13
+      PATO: 205
+      PCO: 6
+      PO: 273
+      PR: 36
+      RO: 280
+      TrEMBL: 31
+      UPHENO: 1
+      dc: 2
+      dcterms: 1
+      rdfs: 1
+    biolink:OrganismTaxon:
+      NCBITaxon: 1
+    biolink:OrganismalEntity:
+      NCBITaxon: 2097
+    biolink:PhenotypicFeature:
+      HP: 16601
+    biolink:Protein:
+      ComplexPortal: 11
+      ENSEMBL: 19359
+      INTACT: 69
+      PR: 420
+      UniProtKB: 7214
+    biolink:Publication:
+      CORD: 190040
+      PMID: 1
+    biolink:RNA:
+      ENSEMBL: 8
+      INTACT: 69
+      NCBIProtein: 2
+    biolink:SequenceFeature:
+      SO: 175
+    unknown:
+      CHEMBL.TARGET: 19
+  node_categories:
+  - biolink:AnatomicalEntity
+  - biolink:Assay
+  - biolink:BiologicalProcess
+  - biolink:Cell
+  - biolink:CellularComponent
+  - biolink:ChemicalSubstance
+  - biolink:Disease
+  - biolink:Drug
+  - biolink:Gene
+  - biolink:MolecularActivity
+  - biolink:MolecularEntity
+  - biolink:NamedThing
+  - biolink:OntologyClass
+  - biolink:OrganismTaxon
+  - biolink:OrganismalEntity
+  - biolink:PhenotypicFeature
+  - biolink:Protein
+  - biolink:Publication
+  - biolink:RNA
+  - biolink:SequenceFeature
+  node_id_prefixes: !!set
+    BFO: null
+    BSPO: null
+    CARO: null
+    CHEBI: null
+    CHEMBL.ASSAY: null
+    CHEMBL.COMPOUND: null
+    CHEMBL.TARGET: null
+    CHR: null
+    CL: null
+    CORD: null
+    ComplexPortal: null
+    DDANAT: null
+    DICTYBASE.GENE: null
+    DRUGBANK: null
+    DrugCentral: null
+    ENSEMBL: null
+    ENVO: null
+    FAO: null
+    FB: null
+    FOODON: null
+    GO: null
+    HGNC: null
+    HP: null
+    IAO: null
+    IDO: null
+    INTACT: null
+    MESH: null
+    MF: null
+    MFOMD: null
+    MOD: null
+    MONDO: null
+    MPATH: null
+    NBO: null
+    NCBIGene: null
+    NCBIProtein: null
+    NCBITaxon: null
+    NCIT: null
+    OBA: null
+    OBI: null
+    OBO: null
+    OGMS: null
+    OIO: null
+    OPL: null
+    PATO: null
+    PCO: null
+    PHARMGKB: null
+    PMID: null
+    PO: null
+    PR: null
+    RGD: null
+    RO: null
+    SGD: null
+    SO: null
+    TAIR.LOCUS: null
+    TrEMBL: null
+    UBERON: null
+    UPHENO: null
+    UniProtKB: null
+    WB: null
+    WD: null
+    XENBASE: null
+    ZFIN: null
+    dc: null
+    dcterms: null
+    owl: null
+    rdfs: null
+    ttd.drug: null
+  node_id_prefixes_by_category:
+    biolink:AnatomicalEntity: !!set
+      UBERON: null
+    biolink:Assay: !!set
+      CHEMBL.ASSAY: null
+    biolink:BiologicalProcess: !!set
+      GO: null
+    biolink:Cell: !!set
+      CL: null
+      OBO: null
+    biolink:CellularComponent: !!set
+      GO: null
+    biolink:ChemicalSubstance: !!set
+      CHEBI: null
+    biolink:Disease: !!set
+      MONDO: null
+    biolink:Drug: !!set
+      CHEBI: null
+      CHEMBL.COMPOUND: null
+      DRUGBANK: null
+      DrugCentral: null
+      PHARMGKB: null
+      ttd.drug: null
+    biolink:Gene: !!set
+      ENSEMBL: null
+      NCBIGene: null
+      PHARMGKB: null
+      UniProtKB: null
+    biolink:MolecularActivity: !!set
+      GO: null
+    biolink:MolecularEntity: !!set
+      INTACT: null
+    biolink:NamedThing: !!set
+      BFO: null
+      CARO: null
+      CHEBI: null
+      CL: null
+      DICTYBASE.GENE: null
+      ENVO: null
+      FB: null
+      GO: null
+      IDO: null
+      MOD: null
+      NBO: null
+      OBI: null
+      OBO: null
+      OIO: null
+      PATO: null
+      PR: null
+      RGD: null
+      SGD: null
+      TAIR.LOCUS: null
+      UBERON: null
+      UniProtKB: null
+      WB: null
+      WD: null
+      XENBASE: null
+      ZFIN: null
+      owl: null
+    biolink:OntologyClass: !!set
+      BFO: null
+      BSPO: null
+      CARO: null
+      CHEMBL.COMPOUND: null
+      CHR: null
+      DDANAT: null
+      ENVO: null
+      FAO: null
+      FOODON: null
+      GO: null
+      HGNC: null
+      HP: null
+      IAO: null
+      IDO: null
+      MESH: null
+      MF: null
+      MFOMD: null
+      MPATH: null
+      NBO: null
+      NCBIGene: null
+      NCBITaxon: null
+      NCIT: null
+      OBA: null
+      OBI: null
+      OBO: null
+      OGMS: null
+      OIO: null
+      OPL: null
+      PATO: null
+      PCO: null
+      PO: null
+      PR: null
+      RO: null
+      TrEMBL: null
+      UPHENO: null
+      dc: null
+      dcterms: null
+      rdfs: null
+    biolink:OrganismTaxon: !!set
+      NCBITaxon: null
+    biolink:OrganismalEntity: !!set
+      NCBITaxon: null
+    biolink:PhenotypicFeature: !!set
+      HP: null
+    biolink:Protein: !!set
+      ComplexPortal: null
+      ENSEMBL: null
+      INTACT: null
+      PR: null
+      UniProtKB: null
+    biolink:Publication: !!set
+      CORD: null
+      PMID: null
+    biolink:RNA: !!set
+      ENSEMBL: null
+      INTACT: null
+      NCBIProtein: null
+    biolink:SequenceFeature: !!set
+      SO: null
+    unknown: !!set
+      CHEMBL.TARGET: null
+  provided_by:
+  - ChEMBL SARS-CoV-2 subset
+  - Graph
+  - STRING
+  - SciBite-CORD-19
+  - chebi.json.gz
+  - drug_central
+  - go-plus.json
+  - hp.json
+  - intact
+  - lifted-go-cams-20200619.xml
+  - mondo.json
+  - nodes.tsv
+  - pharmgkb
+  - sars_cov_2_gene_annot
+  - ttd
+  - unknown
+  - zhou_host_proteins
+  total_nodes: 575786
